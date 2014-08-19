@@ -1,561 +1,561 @@
-1 time.body.acceleration.mean.X TRUE
-2 time.body.acceleration.mean.Y TRUE
-3 time.body.acceleration.mean.Z TRUE
-4 time.body.acceleration.standardDeviation.X TRUE
-5 time.body.acceleration.standardDeviation.Y TRUE
-6 time.body.acceleration.standardDeviation.Z TRUE
-7 time.body.acceleration.mad.X FALSE
-8 time.body.acceleration.mad.Y FALSE
-9 time.body.acceleration.mad.Z FALSE
-10 time.body.acceleration.max.X FALSE
-11 time.body.acceleration.max.Y FALSE
-12 time.body.acceleration.max.Z FALSE
-13 time.body.acceleration.min.X FALSE
-14 time.body.acceleration.min.Y FALSE
-15 time.body.acceleration.min.Z FALSE
-16 time.body.acceleration.sma FALSE
-17 time.body.acceleration.energy.X FALSE
-18 time.body.acceleration.energy.Y FALSE
-19 time.body.acceleration.energy.Z FALSE
-20 time.body.acceleration.iqr.X FALSE
-21 time.body.acceleration.iqr.Y FALSE
-22 time.body.acceleration.iqr.Z FALSE
-23 time.body.acceleration.entropy.X FALSE
-24 time.body.acceleration.entropy.Y FALSE
-25 time.body.acceleration.entropy.Z FALSE
-26 time.body.acceleration.arCoeff.X.1 FALSE
-27 time.body.acceleration.arCoeff.X.2 FALSE
-28 time.body.acceleration.arCoeff.X.3 FALSE
-29 time.body.acceleration.arCoeff.X.4 FALSE
-30 time.body.acceleration.arCoeff.Y.1 FALSE
-31 time.body.acceleration.arCoeff.Y.2 FALSE
-32 time.body.acceleration.arCoeff.Y.3 FALSE
-33 time.body.acceleration.arCoeff.Y.4 FALSE
-34 time.body.acceleration.arCoeff.Z.1 FALSE
-35 time.body.acceleration.arCoeff.Z.2 FALSE
-36 time.body.acceleration.arCoeff.Z.3 FALSE
-37 time.body.acceleration.arCoeff.Z.4 FALSE
-38 time.body.acceleration.correlation.X.Y FALSE
-39 time.body.acceleration.correlation.X.Z FALSE
-40 time.body.acceleration.correlation.Y.Z FALSE
-41 time.gravity.acceleration.mean.X TRUE
-42 time.gravity.acceleration.mean.Y TRUE
-43 time.gravity.acceleration.mean.Z TRUE
-44 time.gravity.acceleration.standardDeviation.X TRUE
-45 time.gravity.acceleration.standardDeviation.Y TRUE
-46 time.gravity.acceleration.standardDeviation.Z TRUE
-47 time.gravity.acceleration.mad.X FALSE
-48 time.gravity.acceleration.mad.Y FALSE
-49 time.gravity.acceleration.mad.Z FALSE
-50 time.gravity.acceleration.max.X FALSE
-51 time.gravity.acceleration.max.Y FALSE
-52 time.gravity.acceleration.max.Z FALSE
-53 time.gravity.acceleration.min.X FALSE
-54 time.gravity.acceleration.min.Y FALSE
-55 time.gravity.acceleration.min.Z FALSE
-56 time.gravity.acceleration.sma FALSE
-57 time.gravity.acceleration.energy.X FALSE
-58 time.gravity.acceleration.energy.Y FALSE
-59 time.gravity.acceleration.energy.Z FALSE
-60 time.gravity.acceleration.iqr.X FALSE
-61 time.gravity.acceleration.iqr.Y FALSE
-62 time.gravity.acceleration.iqr.Z FALSE
-63 time.gravity.acceleration.entropy.X FALSE
-64 time.gravity.acceleration.entropy.Y FALSE
-65 time.gravity.acceleration.entropy.Z FALSE
-66 time.gravity.acceleration.arCoeff.X.1 FALSE
-67 time.gravity.acceleration.arCoeff.X.2 FALSE
-68 time.gravity.acceleration.arCoeff.X.3 FALSE
-69 time.gravity.acceleration.arCoeff.X.4 FALSE
-70 time.gravity.acceleration.arCoeff.Y.1 FALSE
-71 time.gravity.acceleration.arCoeff.Y.2 FALSE
-72 time.gravity.acceleration.arCoeff.Y.3 FALSE
-73 time.gravity.acceleration.arCoeff.Y.4 FALSE
-74 time.gravity.acceleration.arCoeff.Z.1 FALSE
-75 time.gravity.acceleration.arCoeff.Z.2 FALSE
-76 time.gravity.acceleration.arCoeff.Z.3 FALSE
-77 time.gravity.acceleration.arCoeff.Z.4 FALSE
-78 time.gravity.acceleration.correlation.X.Y FALSE
-79 time.gravity.acceleration.correlation.X.Z FALSE
-80 time.gravity.acceleration.correlation.Y.Z FALSE
-81 time.body.acceleration.jerk.mean.X TRUE
-82 time.body.acceleration.jerk.mean.Y TRUE
-83 time.body.acceleration.jerk.mean.Z TRUE
-84 time.body.acceleration.jerk.standardDeviation.X TRUE
-85 time.body.acceleration.jerk.standardDeviation.Y TRUE
-86 time.body.acceleration.jerk.standardDeviation.Z TRUE
-87 time.body.acceleration.jerk.mad.X FALSE
-88 time.body.acceleration.jerk.mad.Y FALSE
-89 time.body.acceleration.jerk.mad.Z FALSE
-90 time.body.acceleration.jerk.max.X FALSE
-91 time.body.acceleration.jerk.max.Y FALSE
-92 time.body.acceleration.jerk.max.Z FALSE
-93 time.body.acceleration.jerk.min.X FALSE
-94 time.body.acceleration.jerk.min.Y FALSE
-95 time.body.acceleration.jerk.min.Z FALSE
-96 time.body.acceleration.jerk.sma FALSE
-97 time.body.acceleration.jerk.energy.X FALSE
-98 time.body.acceleration.jerk.energy.Y FALSE
-99 time.body.acceleration.jerk.energy.Z FALSE
-100 time.body.acceleration.jerk.iqr.X FALSE
-101 time.body.acceleration.jerk.iqr.Y FALSE
-102 time.body.acceleration.jerk.iqr.Z FALSE
-103 time.body.acceleration.jerk.entropy.X FALSE
-104 time.body.acceleration.jerk.entropy.Y FALSE
-105 time.body.acceleration.jerk.entropy.Z FALSE
-106 time.body.acceleration.jerk.arCoeff.X.1 FALSE
-107 time.body.acceleration.jerk.arCoeff.X.2 FALSE
-108 time.body.acceleration.jerk.arCoeff.X.3 FALSE
-109 time.body.acceleration.jerk.arCoeff.X.4 FALSE
-110 time.body.acceleration.jerk.arCoeff.Y.1 FALSE
-111 time.body.acceleration.jerk.arCoeff.Y.2 FALSE
-112 time.body.acceleration.jerk.arCoeff.Y.3 FALSE
-113 time.body.acceleration.jerk.arCoeff.Y.4 FALSE
-114 time.body.acceleration.jerk.arCoeff.Z.1 FALSE
-115 time.body.acceleration.jerk.arCoeff.Z.2 FALSE
-116 time.body.acceleration.jerk.arCoeff.Z.3 FALSE
-117 time.body.acceleration.jerk.arCoeff.Z.4 FALSE
-118 time.body.acceleration.jerk.correlation.X.Y FALSE
-119 time.body.acceleration.jerk.correlation.X.Z FALSE
-120 time.body.acceleration.jerk.correlation.Y.Z FALSE
-121 time.body.gyroscope.mean.X TRUE
-122 time.body.gyroscope.mean.Y TRUE
-123 time.body.gyroscope.mean.Z TRUE
-124 time.body.gyroscope.standardDeviation.X TRUE
-125 time.body.gyroscope.standardDeviation.Y TRUE
-126 time.body.gyroscope.standardDeviation.Z TRUE
-127 time.body.gyroscope.mad.X FALSE
-128 time.body.gyroscope.mad.Y FALSE
-129 time.body.gyroscope.mad.Z FALSE
-130 time.body.gyroscope.max.X FALSE
-131 time.body.gyroscope.max.Y FALSE
-132 time.body.gyroscope.max.Z FALSE
-133 time.body.gyroscope.min.X FALSE
-134 time.body.gyroscope.min.Y FALSE
-135 time.body.gyroscope.min.Z FALSE
-136 time.body.gyroscope.sma FALSE
-137 time.body.gyroscope.energy.X FALSE
-138 time.body.gyroscope.energy.Y FALSE
-139 time.body.gyroscope.energy.Z FALSE
-140 time.body.gyroscope.iqr.X FALSE
-141 time.body.gyroscope.iqr.Y FALSE
-142 time.body.gyroscope.iqr.Z FALSE
-143 time.body.gyroscope.entropy.X FALSE
-144 time.body.gyroscope.entropy.Y FALSE
-145 time.body.gyroscope.entropy.Z FALSE
-146 time.body.gyroscope.arCoeff.X.1 FALSE
-147 time.body.gyroscope.arCoeff.X.2 FALSE
-148 time.body.gyroscope.arCoeff.X.3 FALSE
-149 time.body.gyroscope.arCoeff.X.4 FALSE
-150 time.body.gyroscope.arCoeff.Y.1 FALSE
-151 time.body.gyroscope.arCoeff.Y.2 FALSE
-152 time.body.gyroscope.arCoeff.Y.3 FALSE
-153 time.body.gyroscope.arCoeff.Y.4 FALSE
-154 time.body.gyroscope.arCoeff.Z.1 FALSE
-155 time.body.gyroscope.arCoeff.Z.2 FALSE
-156 time.body.gyroscope.arCoeff.Z.3 FALSE
-157 time.body.gyroscope.arCoeff.Z.4 FALSE
-158 time.body.gyroscope.correlation.X.Y FALSE
-159 time.body.gyroscope.correlation.X.Z FALSE
-160 time.body.gyroscope.correlation.Y.Z FALSE
-161 time.body.gyroscope.jerk.mean.X TRUE
-162 time.body.gyroscope.jerk.mean.Y TRUE
-163 time.body.gyroscope.jerk.mean.Z TRUE
-164 time.body.gyroscope.jerk.standardDeviation.X TRUE
-165 time.body.gyroscope.jerk.standardDeviation.Y TRUE
-166 time.body.gyroscope.jerk.standardDeviation.Z TRUE
-167 time.body.gyroscope.jerk.mad.X FALSE
-168 time.body.gyroscope.jerk.mad.Y FALSE
-169 time.body.gyroscope.jerk.mad.Z FALSE
-170 time.body.gyroscope.jerk.max.X FALSE
-171 time.body.gyroscope.jerk.max.Y FALSE
-172 time.body.gyroscope.jerk.max.Z FALSE
-173 time.body.gyroscope.jerk.min.X FALSE
-174 time.body.gyroscope.jerk.min.Y FALSE
-175 time.body.gyroscope.jerk.min.Z FALSE
-176 time.body.gyroscope.jerk.sma FALSE
-177 time.body.gyroscope.jerk.energy.X FALSE
-178 time.body.gyroscope.jerk.energy.Y FALSE
-179 time.body.gyroscope.jerk.energy.Z FALSE
-180 time.body.gyroscope.jerk.iqr.X FALSE
-181 time.body.gyroscope.jerk.iqr.Y FALSE
-182 time.body.gyroscope.jerk.iqr.Z FALSE
-183 time.body.gyroscope.jerk.entropy.X FALSE
-184 time.body.gyroscope.jerk.entropy.Y FALSE
-185 time.body.gyroscope.jerk.entropy.Z FALSE
-186 time.body.gyroscope.jerk.arCoeff.X.1 FALSE
-187 time.body.gyroscope.jerk.arCoeff.X.2 FALSE
-188 time.body.gyroscope.jerk.arCoeff.X.3 FALSE
-189 time.body.gyroscope.jerk.arCoeff.X.4 FALSE
-190 time.body.gyroscope.jerk.arCoeff.Y.1 FALSE
-191 time.body.gyroscope.jerk.arCoeff.Y.2 FALSE
-192 time.body.gyroscope.jerk.arCoeff.Y.3 FALSE
-193 time.body.gyroscope.jerk.arCoeff.Y.4 FALSE
-194 time.body.gyroscope.jerk.arCoeff.Z.1 FALSE
-195 time.body.gyroscope.jerk.arCoeff.Z.2 FALSE
-196 time.body.gyroscope.jerk.arCoeff.Z.3 FALSE
-197 time.body.gyroscope.jerk.arCoeff.Z.4 FALSE
-198 time.body.gyroscope.jerk.correlation.X.Y FALSE
-199 time.body.gyroscope.jerk.correlation.X.Z FALSE
-200 time.body.gyroscope.jerk.correlation.Y.Z FALSE
-201 time.body.acceleration.magnitude.mean TRUE
-202 time.body.acceleration.magnitude.standardDeviation TRUE
-203 time.body.acceleration.magnitude.mad FALSE
-204 time.body.acceleration.magnitude.max FALSE
-205 time.body.acceleration.magnitude.min FALSE
-206 time.body.acceleration.magnitude.sma FALSE
-207 time.body.acceleration.magnitude.energy FALSE
-208 time.body.acceleration.magnitude.iqr FALSE
-209 time.body.acceleration.magnitude.entropy FALSE
-210 time.body.acceleration.magnitude.arCoeff1 FALSE
-211 time.body.acceleration.magnitude.arCoeff2 FALSE
-212 time.body.acceleration.magnitude.arCoeff3 FALSE
-213 time.body.acceleration.magnitude.arCoeff4 FALSE
-214 time.gravity.acceleration.magnitude.mean TRUE
-215 time.gravity.acceleration.magnitude.standardDeviation TRUE
-216 time.gravity.acceleration.magnitude.mad FALSE
-217 time.gravity.acceleration.magnitude.max FALSE
-218 time.gravity.acceleration.magnitude.min FALSE
-219 time.gravity.acceleration.magnitude.sma FALSE
-220 time.gravity.acceleration.magnitude.energy FALSE
-221 time.gravity.acceleration.magnitude.iqr FALSE
-222 time.gravity.acceleration.magnitude.entropy FALSE
-223 time.gravity.acceleration.magnitude.arCoeff1 FALSE
-224 time.gravity.acceleration.magnitude.arCoeff2 FALSE
-225 time.gravity.acceleration.magnitude.arCoeff3 FALSE
-226 time.gravity.acceleration.magnitude.arCoeff4 FALSE
-227 time.body.acceleration.jerk.magnitude.mean TRUE
-228 time.body.acceleration.jerk.magnitude.standardDeviation TRUE
-229 time.body.acceleration.jerk.magnitude.mad FALSE
-230 time.body.acceleration.jerk.magnitude.max FALSE
-231 time.body.acceleration.jerk.magnitude.min FALSE
-232 time.body.acceleration.jerk.magnitude.sma FALSE
-233 time.body.acceleration.jerk.magnitude.energy FALSE
-234 time.body.acceleration.jerk.magnitude.iqr FALSE
-235 time.body.acceleration.jerk.magnitude.entropy FALSE
-236 time.body.acceleration.jerk.magnitude.arCoeff1 FALSE
-237 time.body.acceleration.jerk.magnitude.arCoeff2 FALSE
-238 time.body.acceleration.jerk.magnitude.arCoeff3 FALSE
-239 time.body.acceleration.jerk.magnitude.arCoeff4 FALSE
-240 time.body.gyroscope.magnitude.mean TRUE
-241 time.body.gyroscope.magnitude.standardDeviation TRUE
-242 time.body.gyroscope.magnitude.mad FALSE
-243 time.body.gyroscope.magnitude.max FALSE
-244 time.body.gyroscope.magnitude.min FALSE
-245 time.body.gyroscope.magnitude.sma FALSE
-246 time.body.gyroscope.magnitude.energy FALSE
-247 time.body.gyroscope.magnitude.iqr FALSE
-248 time.body.gyroscope.magnitude.entropy FALSE
-249 time.body.gyroscope.magnitude.arCoeff1 FALSE
-250 time.body.gyroscope.magnitude.arCoeff2 FALSE
-251 time.body.gyroscope.magnitude.arCoeff3 FALSE
-252 time.body.gyroscope.magnitude.arCoeff4 FALSE
-253 time.body.gyroscope.jerk.magnitude.mean TRUE
-254 time.body.gyroscope.jerk.magnitude.standardDeviation TRUE
-255 time.body.gyroscope.jerk.magnitude.mad FALSE
-256 time.body.gyroscope.jerk.magnitude.max FALSE
-257 time.body.gyroscope.jerk.magnitude.min FALSE
-258 time.body.gyroscope.jerk.magnitude.sma FALSE
-259 time.body.gyroscope.jerk.magnitude.energy FALSE
-260 time.body.gyroscope.jerk.magnitude.iqr FALSE
-261 time.body.gyroscope.jerk.magnitude.entropy FALSE
-262 time.body.gyroscope.jerk.magnitude.arCoeff1 FALSE
-263 time.body.gyroscope.jerk.magnitude.arCoeff2 FALSE
-264 time.body.gyroscope.jerk.magnitude.arCoeff3 FALSE
-265 time.body.gyroscope.jerk.magnitude.arCoeff4 FALSE
-266 fft.body.acceleration.mean.X TRUE
-267 fft.body.acceleration.mean.Y TRUE
-268 fft.body.acceleration.mean.Z TRUE
-269 fft.body.acceleration.standardDeviation.X TRUE
-270 fft.body.acceleration.standardDeviation.Y TRUE
-271 fft.body.acceleration.standardDeviation.Z TRUE
-272 fft.body.acceleration.mad.X FALSE
-273 fft.body.acceleration.mad.Y FALSE
-274 fft.body.acceleration.mad.Z FALSE
-275 fft.body.acceleration.max.X FALSE
-276 fft.body.acceleration.max.Y FALSE
-277 fft.body.acceleration.max.Z FALSE
-278 fft.body.acceleration.min.X FALSE
-279 fft.body.acceleration.min.Y FALSE
-280 fft.body.acceleration.min.Z FALSE
-281 fft.body.acceleration.sma FALSE
-282 fft.body.acceleration.energy.X FALSE
-283 fft.body.acceleration.energy.Y FALSE
-284 fft.body.acceleration.energy.Z FALSE
-285 fft.body.acceleration.iqr.X FALSE
-286 fft.body.acceleration.iqr.Y FALSE
-287 fft.body.acceleration.iqr.Z FALSE
-288 fft.body.acceleration.entropy.X FALSE
-289 fft.body.acceleration.entropy.Y FALSE
-290 fft.body.acceleration.entropy.Z FALSE
-291 fft.body.acceleration.maxInds.X FALSE
-292 fft.body.acceleration.maxInds.Y FALSE
-293 fft.body.acceleration.maxInds.Z FALSE
-294 fft.body.acceleration.meanFreq.X FALSE
-295 fft.body.acceleration.meanFreq.Y FALSE
-296 fft.body.acceleration.meanFreq.Z FALSE
-297 fft.body.acceleration.skewness.X FALSE
-298 fft.body.acceleration.kurtosis.X FALSE
-299 fft.body.acceleration.skewness.Y FALSE
-300 fft.body.acceleration.kurtosis.Y FALSE
-301 fft.body.acceleration.skewness.Z FALSE
-302 fft.body.acceleration.kurtosis.Z FALSE
-303 fft.body.acceleration.bandsEnergy.1.8 FALSE
-304 fft.body.acceleration.bandsEnergy.9.16 FALSE
-305 fft.body.acceleration.bandsEnergy.17.24 FALSE
-306 fft.body.acceleration.bandsEnergy.25.32 FALSE
-307 fft.body.acceleration.bandsEnergy.33.40 FALSE
-308 fft.body.acceleration.bandsEnergy.41.48 FALSE
-309 fft.body.acceleration.bandsEnergy.49.56 FALSE
-310 fft.body.acceleration.bandsEnergy.57.64 FALSE
-311 fft.body.acceleration.bandsEnergy.1.16 FALSE
-312 fft.body.acceleration.bandsEnergy.17.32 FALSE
-313 fft.body.acceleration.bandsEnergy.33.48 FALSE
-314 fft.body.acceleration.bandsEnergy.49.64 FALSE
-315 fft.body.acceleration.bandsEnergy.1.24 FALSE
-316 fft.body.acceleration.bandsEnergy.25.48 FALSE
-317 fft.body.acceleration.bandsEnergy.1.8 FALSE
-318 fft.body.acceleration.bandsEnergy.9.16 FALSE
-319 fft.body.acceleration.bandsEnergy.17.24 FALSE
-320 fft.body.acceleration.bandsEnergy.25.32 FALSE
-321 fft.body.acceleration.bandsEnergy.33.40 FALSE
-322 fft.body.acceleration.bandsEnergy.41.48 FALSE
-323 fft.body.acceleration.bandsEnergy.49.56 FALSE
-324 fft.body.acceleration.bandsEnergy.57.64 FALSE
-325 fft.body.acceleration.bandsEnergy.1.16 FALSE
-326 fft.body.acceleration.bandsEnergy.17.32 FALSE
-327 fft.body.acceleration.bandsEnergy.33.48 FALSE
-328 fft.body.acceleration.bandsEnergy.49.64 FALSE
-329 fft.body.acceleration.bandsEnergy.1.24 FALSE
-330 fft.body.acceleration.bandsEnergy.25.48 FALSE
-331 fft.body.acceleration.bandsEnergy.1.8 FALSE
-332 fft.body.acceleration.bandsEnergy.9.16 FALSE
-333 fft.body.acceleration.bandsEnergy.17.24 FALSE
-334 fft.body.acceleration.bandsEnergy.25.32 FALSE
-335 fft.body.acceleration.bandsEnergy.33.40 FALSE
-336 fft.body.acceleration.bandsEnergy.41.48 FALSE
-337 fft.body.acceleration.bandsEnergy.49.56 FALSE
-338 fft.body.acceleration.bandsEnergy.57.64 FALSE
-339 fft.body.acceleration.bandsEnergy.1.16 FALSE
-340 fft.body.acceleration.bandsEnergy.17.32 FALSE
-341 fft.body.acceleration.bandsEnergy.33.48 FALSE
-342 fft.body.acceleration.bandsEnergy.49.64 FALSE
-343 fft.body.acceleration.bandsEnergy.1.24 FALSE
-344 fft.body.acceleration.bandsEnergy.25.48 FALSE
-345 fft.body.acceleration.jerk.mean.X TRUE
-346 fft.body.acceleration.jerk.mean.Y TRUE
-347 fft.body.acceleration.jerk.mean.Z TRUE
-348 fft.body.acceleration.jerk.standardDeviation.X TRUE
-349 fft.body.acceleration.jerk.standardDeviation.Y TRUE
-350 fft.body.acceleration.jerk.standardDeviation.Z TRUE
-351 fft.body.acceleration.jerk.mad.X FALSE
-352 fft.body.acceleration.jerk.mad.Y FALSE
-353 fft.body.acceleration.jerk.mad.Z FALSE
-354 fft.body.acceleration.jerk.max.X FALSE
-355 fft.body.acceleration.jerk.max.Y FALSE
-356 fft.body.acceleration.jerk.max.Z FALSE
-357 fft.body.acceleration.jerk.min.X FALSE
-358 fft.body.acceleration.jerk.min.Y FALSE
-359 fft.body.acceleration.jerk.min.Z FALSE
-360 fft.body.acceleration.jerk.sma FALSE
-361 fft.body.acceleration.jerk.energy.X FALSE
-362 fft.body.acceleration.jerk.energy.Y FALSE
-363 fft.body.acceleration.jerk.energy.Z FALSE
-364 fft.body.acceleration.jerk.iqr.X FALSE
-365 fft.body.acceleration.jerk.iqr.Y FALSE
-366 fft.body.acceleration.jerk.iqr.Z FALSE
-367 fft.body.acceleration.jerk.entropy.X FALSE
-368 fft.body.acceleration.jerk.entropy.Y FALSE
-369 fft.body.acceleration.jerk.entropy.Z FALSE
-370 fft.body.acceleration.jerk.maxInds.X FALSE
-371 fft.body.acceleration.jerk.maxInds.Y FALSE
-372 fft.body.acceleration.jerk.maxInds.Z FALSE
-373 fft.body.acceleration.jerk.meanFreq.X FALSE
-374 fft.body.acceleration.jerk.meanFreq.Y FALSE
-375 fft.body.acceleration.jerk.meanFreq.Z FALSE
-376 fft.body.acceleration.jerk.skewness.X FALSE
-377 fft.body.acceleration.jerk.kurtosis.X FALSE
-378 fft.body.acceleration.jerk.skewness.Y FALSE
-379 fft.body.acceleration.jerk.kurtosis.Y FALSE
-380 fft.body.acceleration.jerk.skewness.Z FALSE
-381 fft.body.acceleration.jerk.kurtosis.Z FALSE
-382 fft.body.acceleration.jerk.bandsEnergy.1.8 FALSE
-383 fft.body.acceleration.jerk.bandsEnergy.9.16 FALSE
-384 fft.body.acceleration.jerk.bandsEnergy.17.24 FALSE
-385 fft.body.acceleration.jerk.bandsEnergy.25.32 FALSE
-386 fft.body.acceleration.jerk.bandsEnergy.33.40 FALSE
-387 fft.body.acceleration.jerk.bandsEnergy.41.48 FALSE
-388 fft.body.acceleration.jerk.bandsEnergy.49.56 FALSE
-389 fft.body.acceleration.jerk.bandsEnergy.57.64 FALSE
-390 fft.body.acceleration.jerk.bandsEnergy.1.16 FALSE
-391 fft.body.acceleration.jerk.bandsEnergy.17.32 FALSE
-392 fft.body.acceleration.jerk.bandsEnergy.33.48 FALSE
-393 fft.body.acceleration.jerk.bandsEnergy.49.64 FALSE
-394 fft.body.acceleration.jerk.bandsEnergy.1.24 FALSE
-395 fft.body.acceleration.jerk.bandsEnergy.25.48 FALSE
-396 fft.body.acceleration.jerk.bandsEnergy.1.8 FALSE
-397 fft.body.acceleration.jerk.bandsEnergy.9.16 FALSE
-398 fft.body.acceleration.jerk.bandsEnergy.17.24 FALSE
-399 fft.body.acceleration.jerk.bandsEnergy.25.32 FALSE
-400 fft.body.acceleration.jerk.bandsEnergy.33.40 FALSE
-401 fft.body.acceleration.jerk.bandsEnergy.41.48 FALSE
-402 fft.body.acceleration.jerk.bandsEnergy.49.56 FALSE
-403 fft.body.acceleration.jerk.bandsEnergy.57.64 FALSE
-404 fft.body.acceleration.jerk.bandsEnergy.1.16 FALSE
-405 fft.body.acceleration.jerk.bandsEnergy.17.32 FALSE
-406 fft.body.acceleration.jerk.bandsEnergy.33.48 FALSE
-407 fft.body.acceleration.jerk.bandsEnergy.49.64 FALSE
-408 fft.body.acceleration.jerk.bandsEnergy.1.24 FALSE
-409 fft.body.acceleration.jerk.bandsEnergy.25.48 FALSE
-410 fft.body.acceleration.jerk.bandsEnergy.1.8 FALSE
-411 fft.body.acceleration.jerk.bandsEnergy.9.16 FALSE
-412 fft.body.acceleration.jerk.bandsEnergy.17.24 FALSE
-413 fft.body.acceleration.jerk.bandsEnergy.25.32 FALSE
-414 fft.body.acceleration.jerk.bandsEnergy.33.40 FALSE
-415 fft.body.acceleration.jerk.bandsEnergy.41.48 FALSE
-416 fft.body.acceleration.jerk.bandsEnergy.49.56 FALSE
-417 fft.body.acceleration.jerk.bandsEnergy.57.64 FALSE
-418 fft.body.acceleration.jerk.bandsEnergy.1.16 FALSE
-419 fft.body.acceleration.jerk.bandsEnergy.17.32 FALSE
-420 fft.body.acceleration.jerk.bandsEnergy.33.48 FALSE
-421 fft.body.acceleration.jerk.bandsEnergy.49.64 FALSE
-422 fft.body.acceleration.jerk.bandsEnergy.1.24 FALSE
-423 fft.body.acceleration.jerk.bandsEnergy.25.48 FALSE
-424 fft.body.gyroscope.mean.X TRUE
-425 fft.body.gyroscope.mean.Y TRUE
-426 fft.body.gyroscope.mean.Z TRUE
-427 fft.body.gyroscope.standardDeviation.X TRUE
-428 fft.body.gyroscope.standardDeviation.Y TRUE
-429 fft.body.gyroscope.standardDeviation.Z TRUE
-430 fft.body.gyroscope.mad.X FALSE
-431 fft.body.gyroscope.mad.Y FALSE
-432 fft.body.gyroscope.mad.Z FALSE
-433 fft.body.gyroscope.max.X FALSE
-434 fft.body.gyroscope.max.Y FALSE
-435 fft.body.gyroscope.max.Z FALSE
-436 fft.body.gyroscope.min.X FALSE
-437 fft.body.gyroscope.min.Y FALSE
-438 fft.body.gyroscope.min.Z FALSE
-439 fft.body.gyroscope.sma FALSE
-440 fft.body.gyroscope.energy.X FALSE
-441 fft.body.gyroscope.energy.Y FALSE
-442 fft.body.gyroscope.energy.Z FALSE
-443 fft.body.gyroscope.iqr.X FALSE
-444 fft.body.gyroscope.iqr.Y FALSE
-445 fft.body.gyroscope.iqr.Z FALSE
-446 fft.body.gyroscope.entropy.X FALSE
-447 fft.body.gyroscope.entropy.Y FALSE
-448 fft.body.gyroscope.entropy.Z FALSE
-449 fft.body.gyroscope.maxInds.X FALSE
-450 fft.body.gyroscope.maxInds.Y FALSE
-451 fft.body.gyroscope.maxInds.Z FALSE
-452 fft.body.gyroscope.meanFreq.X FALSE
-453 fft.body.gyroscope.meanFreq.Y FALSE
-454 fft.body.gyroscope.meanFreq.Z FALSE
-455 fft.body.gyroscope.skewness.X FALSE
-456 fft.body.gyroscope.kurtosis.X FALSE
-457 fft.body.gyroscope.skewness.Y FALSE
-458 fft.body.gyroscope.kurtosis.Y FALSE
-459 fft.body.gyroscope.skewness.Z FALSE
-460 fft.body.gyroscope.kurtosis.Z FALSE
-461 fft.body.gyroscope.bandsEnergy.1.8 FALSE
-462 fft.body.gyroscope.bandsEnergy.9.16 FALSE
-463 fft.body.gyroscope.bandsEnergy.17.24 FALSE
-464 fft.body.gyroscope.bandsEnergy.25.32 FALSE
-465 fft.body.gyroscope.bandsEnergy.33.40 FALSE
-466 fft.body.gyroscope.bandsEnergy.41.48 FALSE
-467 fft.body.gyroscope.bandsEnergy.49.56 FALSE
-468 fft.body.gyroscope.bandsEnergy.57.64 FALSE
-469 fft.body.gyroscope.bandsEnergy.1.16 FALSE
-470 fft.body.gyroscope.bandsEnergy.17.32 FALSE
-471 fft.body.gyroscope.bandsEnergy.33.48 FALSE
-472 fft.body.gyroscope.bandsEnergy.49.64 FALSE
-473 fft.body.gyroscope.bandsEnergy.1.24 FALSE
-474 fft.body.gyroscope.bandsEnergy.25.48 FALSE
-475 fft.body.gyroscope.bandsEnergy.1.8 FALSE
-476 fft.body.gyroscope.bandsEnergy.9.16 FALSE
-477 fft.body.gyroscope.bandsEnergy.17.24 FALSE
-478 fft.body.gyroscope.bandsEnergy.25.32 FALSE
-479 fft.body.gyroscope.bandsEnergy.33.40 FALSE
-480 fft.body.gyroscope.bandsEnergy.41.48 FALSE
-481 fft.body.gyroscope.bandsEnergy.49.56 FALSE
-482 fft.body.gyroscope.bandsEnergy.57.64 FALSE
-483 fft.body.gyroscope.bandsEnergy.1.16 FALSE
-484 fft.body.gyroscope.bandsEnergy.17.32 FALSE
-485 fft.body.gyroscope.bandsEnergy.33.48 FALSE
-486 fft.body.gyroscope.bandsEnergy.49.64 FALSE
-487 fft.body.gyroscope.bandsEnergy.1.24 FALSE
-488 fft.body.gyroscope.bandsEnergy.25.48 FALSE
-489 fft.body.gyroscope.bandsEnergy.1.8 FALSE
-490 fft.body.gyroscope.bandsEnergy.9.16 FALSE
-491 fft.body.gyroscope.bandsEnergy.17.24 FALSE
-492 fft.body.gyroscope.bandsEnergy.25.32 FALSE
-493 fft.body.gyroscope.bandsEnergy.33.40 FALSE
-494 fft.body.gyroscope.bandsEnergy.41.48 FALSE
-495 fft.body.gyroscope.bandsEnergy.49.56 FALSE
-496 fft.body.gyroscope.bandsEnergy.57.64 FALSE
-497 fft.body.gyroscope.bandsEnergy.1.16 FALSE
-498 fft.body.gyroscope.bandsEnergy.17.32 FALSE
-499 fft.body.gyroscope.bandsEnergy.33.48 FALSE
-500 fft.body.gyroscope.bandsEnergy.49.64 FALSE
-501 fft.body.gyroscope.bandsEnergy.1.24 FALSE
-502 fft.body.gyroscope.bandsEnergy.25.48 FALSE
-503 fft.body.acceleration.magnitude.mean TRUE
-504 fft.body.acceleration.magnitude.standardDeviation TRUE
-505 fft.body.acceleration.magnitude.mad FALSE
-506 fft.body.acceleration.magnitude.max FALSE
-507 fft.body.acceleration.magnitude.min FALSE
-508 fft.body.acceleration.magnitude.sma FALSE
-509 fft.body.acceleration.magnitude.energy FALSE
-510 fft.body.acceleration.magnitude.iqr FALSE
-511 fft.body.acceleration.magnitude.entropy FALSE
-512 fft.body.acceleration.magnitude.maxInds FALSE
-513 fft.body.acceleration.magnitude.meanFreq FALSE
-514 fft.body.acceleration.magnitude.skewness FALSE
-515 fft.body.acceleration.magnitude.kurtosis FALSE
-516 fft.body.body.acceleration.jerk.magnitude.mean TRUE
-517 fft.body.body.acceleration.jerk.magnitude.standardDeviation TRUE
-518 fft.body.body.acceleration.jerk.magnitude.mad FALSE
-519 fft.body.body.acceleration.jerk.magnitude.max FALSE
-520 fft.body.body.acceleration.jerk.magnitude.min FALSE
-521 fft.body.body.acceleration.jerk.magnitude.sma FALSE
-522 fft.body.body.acceleration.jerk.magnitude.energy FALSE
-523 fft.body.body.acceleration.jerk.magnitude.iqr FALSE
-524 fft.body.body.acceleration.jerk.magnitude.entropy FALSE
-525 fft.body.body.acceleration.jerk.magnitude.maxInds FALSE
-526 fft.body.body.acceleration.jerk.magnitude.meanFreq FALSE
-527 fft.body.body.acceleration.jerk.magnitude.skewness FALSE
-528 fft.body.body.acceleration.jerk.magnitude.kurtosis FALSE
-529 fft.body.body.gyroscope.magnitude.mean TRUE
-530 fft.body.body.gyroscope.magnitude.standardDeviation TRUE
-531 fft.body.body.gyroscope.magnitude.mad FALSE
-532 fft.body.body.gyroscope.magnitude.max FALSE
-533 fft.body.body.gyroscope.magnitude.min FALSE
-534 fft.body.body.gyroscope.magnitude.sma FALSE
-535 fft.body.body.gyroscope.magnitude.energy FALSE
-536 fft.body.body.gyroscope.magnitude.iqr FALSE
-537 fft.body.body.gyroscope.magnitude.entropy FALSE
-538 fft.body.body.gyroscope.magnitude.maxInds FALSE
-539 fft.body.body.gyroscope.magnitude.meanFreq FALSE
-540 fft.body.body.gyroscope.magnitude.skewness FALSE
-541 fft.body.body.gyroscope.magnitude.kurtosis FALSE
-542 fft.body.body.gyroscope.jerk.magnitude.mean TRUE
-543 fft.body.body.gyroscope.jerk.magnitude.standardDeviation TRUE
-544 fft.body.body.gyroscope.jerk.magnitude.mad FALSE
-545 fft.body.body.gyroscope.jerk.magnitude.max FALSE
-546 fft.body.body.gyroscope.jerk.magnitude.min FALSE
-547 fft.body.body.gyroscope.jerk.magnitude.sma FALSE
-548 fft.body.body.gyroscope.jerk.magnitude.energy FALSE
-549 fft.body.body.gyroscope.jerk.magnitude.iqr FALSE
-550 fft.body.body.gyroscope.jerk.magnitude.entropy FALSE
-551 fft.body.body.gyroscope.jerk.magnitude.maxInds FALSE
-552 fft.body.body.gyroscope.jerk.magnitude.meanFreq FALSE
-553 fft.body.body.gyroscope.jerk.magnitude.skewness FALSE
-554 fft.body.body.gyroscope.jerk.magnitude.kurtosis FALSE
-555 angle.time.body.AccMean.gravity FALSE
-556 angle.time.body.acceleration.jerkMean.gravityMean FALSE
-557 angle.time.body.GyroMean.gravityMean FALSE
-558 angle.time.body.GyroJerkMean.gravityMean FALSE
-559 angle.X.gravityMean FALSE
-560 angle.Y.gravityMean FALSE
-561 angle.Z.gravityMean FALSE
+1	tBodyAcc-mean()-X	time.body.acceleration.mean.X	TRUE
+2	tBodyAcc-mean()-Y	time.body.acceleration.mean.Y	TRUE
+3	tBodyAcc-mean()-Z	time.body.acceleration.mean.Z	TRUE
+4	tBodyAcc-std()-X	time.body.acceleration.standardDeviation.X	TRUE
+5	tBodyAcc-std()-Y	time.body.acceleration.standardDeviation.Y	TRUE
+6	tBodyAcc-std()-Z	time.body.acceleration.standardDeviation.Z	TRUE
+7	tBodyAcc-mad()-X	time.body.acceleration.mad.X	FALSE
+8	tBodyAcc-mad()-Y	time.body.acceleration.mad.Y	FALSE
+9	tBodyAcc-mad()-Z	time.body.acceleration.mad.Z	FALSE
+10	tBodyAcc-max()-X	time.body.acceleration.max.X	FALSE
+11	tBodyAcc-max()-Y	time.body.acceleration.max.Y	FALSE
+12	tBodyAcc-max()-Z	time.body.acceleration.max.Z	FALSE
+13	tBodyAcc-min()-X	time.body.acceleration.min.X	FALSE
+14	tBodyAcc-min()-Y	time.body.acceleration.min.Y	FALSE
+15	tBodyAcc-min()-Z	time.body.acceleration.min.Z	FALSE
+16	tBodyAcc-sma()	time.body.acceleration.sma	FALSE
+17	tBodyAcc-energy()-X	time.body.acceleration.energy.X	FALSE
+18	tBodyAcc-energy()-Y	time.body.acceleration.energy.Y	FALSE
+19	tBodyAcc-energy()-Z	time.body.acceleration.energy.Z	FALSE
+20	tBodyAcc-iqr()-X	time.body.acceleration.iqr.X	FALSE
+21	tBodyAcc-iqr()-Y	time.body.acceleration.iqr.Y	FALSE
+22	tBodyAcc-iqr()-Z	time.body.acceleration.iqr.Z	FALSE
+23	tBodyAcc-entropy()-X	time.body.acceleration.entropy.X	FALSE
+24	tBodyAcc-entropy()-Y	time.body.acceleration.entropy.Y	FALSE
+25	tBodyAcc-entropy()-Z	time.body.acceleration.entropy.Z	FALSE
+26	"tBodyAcc-arCoeff()-X,1"	time.body.acceleration.arCoeff.X.1	FALSE
+27	"tBodyAcc-arCoeff()-X,2"	time.body.acceleration.arCoeff.X.2	FALSE
+28	"tBodyAcc-arCoeff()-X,3"	time.body.acceleration.arCoeff.X.3	FALSE
+29	"tBodyAcc-arCoeff()-X,4"	time.body.acceleration.arCoeff.X.4	FALSE
+30	"tBodyAcc-arCoeff()-Y,1"	time.body.acceleration.arCoeff.Y.1	FALSE
+31	"tBodyAcc-arCoeff()-Y,2"	time.body.acceleration.arCoeff.Y.2	FALSE
+32	"tBodyAcc-arCoeff()-Y,3"	time.body.acceleration.arCoeff.Y.3	FALSE
+33	"tBodyAcc-arCoeff()-Y,4"	time.body.acceleration.arCoeff.Y.4	FALSE
+34	"tBodyAcc-arCoeff()-Z,1"	time.body.acceleration.arCoeff.Z.1	FALSE
+35	"tBodyAcc-arCoeff()-Z,2"	time.body.acceleration.arCoeff.Z.2	FALSE
+36	"tBodyAcc-arCoeff()-Z,3"	time.body.acceleration.arCoeff.Z.3	FALSE
+37	"tBodyAcc-arCoeff()-Z,4"	time.body.acceleration.arCoeff.Z.4	FALSE
+38	"tBodyAcc-correlation()-X,Y"	time.body.acceleration.correlation.X.Y	FALSE
+39	"tBodyAcc-correlation()-X,Z"	time.body.acceleration.correlation.X.Z	FALSE
+40	"tBodyAcc-correlation()-Y,Z"	time.body.acceleration.correlation.Y.Z	FALSE
+41	tGravityAcc-mean()-X	time.gravity.acceleration.mean.X	TRUE
+42	tGravityAcc-mean()-Y	time.gravity.acceleration.mean.Y	TRUE
+43	tGravityAcc-mean()-Z	time.gravity.acceleration.mean.Z	TRUE
+44	tGravityAcc-std()-X	time.gravity.acceleration.standardDeviation.X	TRUE
+45	tGravityAcc-std()-Y	time.gravity.acceleration.standardDeviation.Y	TRUE
+46	tGravityAcc-std()-Z	time.gravity.acceleration.standardDeviation.Z	TRUE
+47	tGravityAcc-mad()-X	time.gravity.acceleration.mad.X	FALSE
+48	tGravityAcc-mad()-Y	time.gravity.acceleration.mad.Y	FALSE
+49	tGravityAcc-mad()-Z	time.gravity.acceleration.mad.Z	FALSE
+50	tGravityAcc-max()-X	time.gravity.acceleration.max.X	FALSE
+51	tGravityAcc-max()-Y	time.gravity.acceleration.max.Y	FALSE
+52	tGravityAcc-max()-Z	time.gravity.acceleration.max.Z	FALSE
+53	tGravityAcc-min()-X	time.gravity.acceleration.min.X	FALSE
+54	tGravityAcc-min()-Y	time.gravity.acceleration.min.Y	FALSE
+55	tGravityAcc-min()-Z	time.gravity.acceleration.min.Z	FALSE
+56	tGravityAcc-sma()	time.gravity.acceleration.sma	FALSE
+57	tGravityAcc-energy()-X	time.gravity.acceleration.energy.X	FALSE
+58	tGravityAcc-energy()-Y	time.gravity.acceleration.energy.Y	FALSE
+59	tGravityAcc-energy()-Z	time.gravity.acceleration.energy.Z	FALSE
+60	tGravityAcc-iqr()-X	time.gravity.acceleration.iqr.X	FALSE
+61	tGravityAcc-iqr()-Y	time.gravity.acceleration.iqr.Y	FALSE
+62	tGravityAcc-iqr()-Z	time.gravity.acceleration.iqr.Z	FALSE
+63	tGravityAcc-entropy()-X	time.gravity.acceleration.entropy.X	FALSE
+64	tGravityAcc-entropy()-Y	time.gravity.acceleration.entropy.Y	FALSE
+65	tGravityAcc-entropy()-Z	time.gravity.acceleration.entropy.Z	FALSE
+66	"tGravityAcc-arCoeff()-X,1"	time.gravity.acceleration.arCoeff.X.1	FALSE
+67	"tGravityAcc-arCoeff()-X,2"	time.gravity.acceleration.arCoeff.X.2	FALSE
+68	"tGravityAcc-arCoeff()-X,3"	time.gravity.acceleration.arCoeff.X.3	FALSE
+69	"tGravityAcc-arCoeff()-X,4"	time.gravity.acceleration.arCoeff.X.4	FALSE
+70	"tGravityAcc-arCoeff()-Y,1"	time.gravity.acceleration.arCoeff.Y.1	FALSE
+71	"tGravityAcc-arCoeff()-Y,2"	time.gravity.acceleration.arCoeff.Y.2	FALSE
+72	"tGravityAcc-arCoeff()-Y,3"	time.gravity.acceleration.arCoeff.Y.3	FALSE
+73	"tGravityAcc-arCoeff()-Y,4"	time.gravity.acceleration.arCoeff.Y.4	FALSE
+74	"tGravityAcc-arCoeff()-Z,1"	time.gravity.acceleration.arCoeff.Z.1	FALSE
+75	"tGravityAcc-arCoeff()-Z,2"	time.gravity.acceleration.arCoeff.Z.2	FALSE
+76	"tGravityAcc-arCoeff()-Z,3"	time.gravity.acceleration.arCoeff.Z.3	FALSE
+77	"tGravityAcc-arCoeff()-Z,4"	time.gravity.acceleration.arCoeff.Z.4	FALSE
+78	"tGravityAcc-correlation()-X,Y"	time.gravity.acceleration.correlation.X.Y	FALSE
+79	"tGravityAcc-correlation()-X,Z"	time.gravity.acceleration.correlation.X.Z	FALSE
+80	"tGravityAcc-correlation()-Y,Z"	time.gravity.acceleration.correlation.Y.Z	FALSE
+81	tBodyAccJerk-mean()-X	time.body.acceleration.jerk.mean.X	TRUE
+82	tBodyAccJerk-mean()-Y	time.body.acceleration.jerk.mean.Y	TRUE
+83	tBodyAccJerk-mean()-Z	time.body.acceleration.jerk.mean.Z	TRUE
+84	tBodyAccJerk-std()-X	time.body.acceleration.jerk.standardDeviation.X	TRUE
+85	tBodyAccJerk-std()-Y	time.body.acceleration.jerk.standardDeviation.Y	TRUE
+86	tBodyAccJerk-std()-Z	time.body.acceleration.jerk.standardDeviation.Z	TRUE
+87	tBodyAccJerk-mad()-X	time.body.acceleration.jerk.mad.X	FALSE
+88	tBodyAccJerk-mad()-Y	time.body.acceleration.jerk.mad.Y	FALSE
+89	tBodyAccJerk-mad()-Z	time.body.acceleration.jerk.mad.Z	FALSE
+90	tBodyAccJerk-max()-X	time.body.acceleration.jerk.max.X	FALSE
+91	tBodyAccJerk-max()-Y	time.body.acceleration.jerk.max.Y	FALSE
+92	tBodyAccJerk-max()-Z	time.body.acceleration.jerk.max.Z	FALSE
+93	tBodyAccJerk-min()-X	time.body.acceleration.jerk.min.X	FALSE
+94	tBodyAccJerk-min()-Y	time.body.acceleration.jerk.min.Y	FALSE
+95	tBodyAccJerk-min()-Z	time.body.acceleration.jerk.min.Z	FALSE
+96	tBodyAccJerk-sma()	time.body.acceleration.jerk.sma	FALSE
+97	tBodyAccJerk-energy()-X	time.body.acceleration.jerk.energy.X	FALSE
+98	tBodyAccJerk-energy()-Y	time.body.acceleration.jerk.energy.Y	FALSE
+99	tBodyAccJerk-energy()-Z	time.body.acceleration.jerk.energy.Z	FALSE
+100	tBodyAccJerk-iqr()-X	time.body.acceleration.jerk.iqr.X	FALSE
+101	tBodyAccJerk-iqr()-Y	time.body.acceleration.jerk.iqr.Y	FALSE
+102	tBodyAccJerk-iqr()-Z	time.body.acceleration.jerk.iqr.Z	FALSE
+103	tBodyAccJerk-entropy()-X	time.body.acceleration.jerk.entropy.X	FALSE
+104	tBodyAccJerk-entropy()-Y	time.body.acceleration.jerk.entropy.Y	FALSE
+105	tBodyAccJerk-entropy()-Z	time.body.acceleration.jerk.entropy.Z	FALSE
+106	"tBodyAccJerk-arCoeff()-X,1"	time.body.acceleration.jerk.arCoeff.X.1	FALSE
+107	"tBodyAccJerk-arCoeff()-X,2"	time.body.acceleration.jerk.arCoeff.X.2	FALSE
+108	"tBodyAccJerk-arCoeff()-X,3"	time.body.acceleration.jerk.arCoeff.X.3	FALSE
+109	"tBodyAccJerk-arCoeff()-X,4"	time.body.acceleration.jerk.arCoeff.X.4	FALSE
+110	"tBodyAccJerk-arCoeff()-Y,1"	time.body.acceleration.jerk.arCoeff.Y.1	FALSE
+111	"tBodyAccJerk-arCoeff()-Y,2"	time.body.acceleration.jerk.arCoeff.Y.2	FALSE
+112	"tBodyAccJerk-arCoeff()-Y,3"	time.body.acceleration.jerk.arCoeff.Y.3	FALSE
+113	"tBodyAccJerk-arCoeff()-Y,4"	time.body.acceleration.jerk.arCoeff.Y.4	FALSE
+114	"tBodyAccJerk-arCoeff()-Z,1"	time.body.acceleration.jerk.arCoeff.Z.1	FALSE
+115	"tBodyAccJerk-arCoeff()-Z,2"	time.body.acceleration.jerk.arCoeff.Z.2	FALSE
+116	"tBodyAccJerk-arCoeff()-Z,3"	time.body.acceleration.jerk.arCoeff.Z.3	FALSE
+117	"tBodyAccJerk-arCoeff()-Z,4"	time.body.acceleration.jerk.arCoeff.Z.4	FALSE
+118	"tBodyAccJerk-correlation()-X,Y"	time.body.acceleration.jerk.correlation.X.Y	FALSE
+119	"tBodyAccJerk-correlation()-X,Z"	time.body.acceleration.jerk.correlation.X.Z	FALSE
+120	"tBodyAccJerk-correlation()-Y,Z"	time.body.acceleration.jerk.correlation.Y.Z	FALSE
+121	tBodyGyro-mean()-X	time.body.gyroscope.mean.X	TRUE
+122	tBodyGyro-mean()-Y	time.body.gyroscope.mean.Y	TRUE
+123	tBodyGyro-mean()-Z	time.body.gyroscope.mean.Z	TRUE
+124	tBodyGyro-std()-X	time.body.gyroscope.standardDeviation.X	TRUE
+125	tBodyGyro-std()-Y	time.body.gyroscope.standardDeviation.Y	TRUE
+126	tBodyGyro-std()-Z	time.body.gyroscope.standardDeviation.Z	TRUE
+127	tBodyGyro-mad()-X	time.body.gyroscope.mad.X	FALSE
+128	tBodyGyro-mad()-Y	time.body.gyroscope.mad.Y	FALSE
+129	tBodyGyro-mad()-Z	time.body.gyroscope.mad.Z	FALSE
+130	tBodyGyro-max()-X	time.body.gyroscope.max.X	FALSE
+131	tBodyGyro-max()-Y	time.body.gyroscope.max.Y	FALSE
+132	tBodyGyro-max()-Z	time.body.gyroscope.max.Z	FALSE
+133	tBodyGyro-min()-X	time.body.gyroscope.min.X	FALSE
+134	tBodyGyro-min()-Y	time.body.gyroscope.min.Y	FALSE
+135	tBodyGyro-min()-Z	time.body.gyroscope.min.Z	FALSE
+136	tBodyGyro-sma()	time.body.gyroscope.sma	FALSE
+137	tBodyGyro-energy()-X	time.body.gyroscope.energy.X	FALSE
+138	tBodyGyro-energy()-Y	time.body.gyroscope.energy.Y	FALSE
+139	tBodyGyro-energy()-Z	time.body.gyroscope.energy.Z	FALSE
+140	tBodyGyro-iqr()-X	time.body.gyroscope.iqr.X	FALSE
+141	tBodyGyro-iqr()-Y	time.body.gyroscope.iqr.Y	FALSE
+142	tBodyGyro-iqr()-Z	time.body.gyroscope.iqr.Z	FALSE
+143	tBodyGyro-entropy()-X	time.body.gyroscope.entropy.X	FALSE
+144	tBodyGyro-entropy()-Y	time.body.gyroscope.entropy.Y	FALSE
+145	tBodyGyro-entropy()-Z	time.body.gyroscope.entropy.Z	FALSE
+146	"tBodyGyro-arCoeff()-X,1"	time.body.gyroscope.arCoeff.X.1	FALSE
+147	"tBodyGyro-arCoeff()-X,2"	time.body.gyroscope.arCoeff.X.2	FALSE
+148	"tBodyGyro-arCoeff()-X,3"	time.body.gyroscope.arCoeff.X.3	FALSE
+149	"tBodyGyro-arCoeff()-X,4"	time.body.gyroscope.arCoeff.X.4	FALSE
+150	"tBodyGyro-arCoeff()-Y,1"	time.body.gyroscope.arCoeff.Y.1	FALSE
+151	"tBodyGyro-arCoeff()-Y,2"	time.body.gyroscope.arCoeff.Y.2	FALSE
+152	"tBodyGyro-arCoeff()-Y,3"	time.body.gyroscope.arCoeff.Y.3	FALSE
+153	"tBodyGyro-arCoeff()-Y,4"	time.body.gyroscope.arCoeff.Y.4	FALSE
+154	"tBodyGyro-arCoeff()-Z,1"	time.body.gyroscope.arCoeff.Z.1	FALSE
+155	"tBodyGyro-arCoeff()-Z,2"	time.body.gyroscope.arCoeff.Z.2	FALSE
+156	"tBodyGyro-arCoeff()-Z,3"	time.body.gyroscope.arCoeff.Z.3	FALSE
+157	"tBodyGyro-arCoeff()-Z,4"	time.body.gyroscope.arCoeff.Z.4	FALSE
+158	"tBodyGyro-correlation()-X,Y"	time.body.gyroscope.correlation.X.Y	FALSE
+159	"tBodyGyro-correlation()-X,Z"	time.body.gyroscope.correlation.X.Z	FALSE
+160	"tBodyGyro-correlation()-Y,Z"	time.body.gyroscope.correlation.Y.Z	FALSE
+161	tBodyGyroJerk-mean()-X	time.body.gyroscope.jerk.mean.X	TRUE
+162	tBodyGyroJerk-mean()-Y	time.body.gyroscope.jerk.mean.Y	TRUE
+163	tBodyGyroJerk-mean()-Z	time.body.gyroscope.jerk.mean.Z	TRUE
+164	tBodyGyroJerk-std()-X	time.body.gyroscope.jerk.standardDeviation.X	TRUE
+165	tBodyGyroJerk-std()-Y	time.body.gyroscope.jerk.standardDeviation.Y	TRUE
+166	tBodyGyroJerk-std()-Z	time.body.gyroscope.jerk.standardDeviation.Z	TRUE
+167	tBodyGyroJerk-mad()-X	time.body.gyroscope.jerk.mad.X	FALSE
+168	tBodyGyroJerk-mad()-Y	time.body.gyroscope.jerk.mad.Y	FALSE
+169	tBodyGyroJerk-mad()-Z	time.body.gyroscope.jerk.mad.Z	FALSE
+170	tBodyGyroJerk-max()-X	time.body.gyroscope.jerk.max.X	FALSE
+171	tBodyGyroJerk-max()-Y	time.body.gyroscope.jerk.max.Y	FALSE
+172	tBodyGyroJerk-max()-Z	time.body.gyroscope.jerk.max.Z	FALSE
+173	tBodyGyroJerk-min()-X	time.body.gyroscope.jerk.min.X	FALSE
+174	tBodyGyroJerk-min()-Y	time.body.gyroscope.jerk.min.Y	FALSE
+175	tBodyGyroJerk-min()-Z	time.body.gyroscope.jerk.min.Z	FALSE
+176	tBodyGyroJerk-sma()	time.body.gyroscope.jerk.sma	FALSE
+177	tBodyGyroJerk-energy()-X	time.body.gyroscope.jerk.energy.X	FALSE
+178	tBodyGyroJerk-energy()-Y	time.body.gyroscope.jerk.energy.Y	FALSE
+179	tBodyGyroJerk-energy()-Z	time.body.gyroscope.jerk.energy.Z	FALSE
+180	tBodyGyroJerk-iqr()-X	time.body.gyroscope.jerk.iqr.X	FALSE
+181	tBodyGyroJerk-iqr()-Y	time.body.gyroscope.jerk.iqr.Y	FALSE
+182	tBodyGyroJerk-iqr()-Z	time.body.gyroscope.jerk.iqr.Z	FALSE
+183	tBodyGyroJerk-entropy()-X	time.body.gyroscope.jerk.entropy.X	FALSE
+184	tBodyGyroJerk-entropy()-Y	time.body.gyroscope.jerk.entropy.Y	FALSE
+185	tBodyGyroJerk-entropy()-Z	time.body.gyroscope.jerk.entropy.Z	FALSE
+186	"tBodyGyroJerk-arCoeff()-X,1"	time.body.gyroscope.jerk.arCoeff.X.1	FALSE
+187	"tBodyGyroJerk-arCoeff()-X,2"	time.body.gyroscope.jerk.arCoeff.X.2	FALSE
+188	"tBodyGyroJerk-arCoeff()-X,3"	time.body.gyroscope.jerk.arCoeff.X.3	FALSE
+189	"tBodyGyroJerk-arCoeff()-X,4"	time.body.gyroscope.jerk.arCoeff.X.4	FALSE
+190	"tBodyGyroJerk-arCoeff()-Y,1"	time.body.gyroscope.jerk.arCoeff.Y.1	FALSE
+191	"tBodyGyroJerk-arCoeff()-Y,2"	time.body.gyroscope.jerk.arCoeff.Y.2	FALSE
+192	"tBodyGyroJerk-arCoeff()-Y,3"	time.body.gyroscope.jerk.arCoeff.Y.3	FALSE
+193	"tBodyGyroJerk-arCoeff()-Y,4"	time.body.gyroscope.jerk.arCoeff.Y.4	FALSE
+194	"tBodyGyroJerk-arCoeff()-Z,1"	time.body.gyroscope.jerk.arCoeff.Z.1	FALSE
+195	"tBodyGyroJerk-arCoeff()-Z,2"	time.body.gyroscope.jerk.arCoeff.Z.2	FALSE
+196	"tBodyGyroJerk-arCoeff()-Z,3"	time.body.gyroscope.jerk.arCoeff.Z.3	FALSE
+197	"tBodyGyroJerk-arCoeff()-Z,4"	time.body.gyroscope.jerk.arCoeff.Z.4	FALSE
+198	"tBodyGyroJerk-correlation()-X,Y"	time.body.gyroscope.jerk.correlation.X.Y	FALSE
+199	"tBodyGyroJerk-correlation()-X,Z"	time.body.gyroscope.jerk.correlation.X.Z	FALSE
+200	"tBodyGyroJerk-correlation()-Y,Z"	time.body.gyroscope.jerk.correlation.Y.Z	FALSE
+201	tBodyAccMag-mean()	time.body.acceleration.magnitude.mean	TRUE
+202	tBodyAccMag-std()	time.body.acceleration.magnitude.standardDeviation	TRUE
+203	tBodyAccMag-mad()	time.body.acceleration.magnitude.mad	FALSE
+204	tBodyAccMag-max()	time.body.acceleration.magnitude.max	FALSE
+205	tBodyAccMag-min()	time.body.acceleration.magnitude.min	FALSE
+206	tBodyAccMag-sma()	time.body.acceleration.magnitude.sma	FALSE
+207	tBodyAccMag-energy()	time.body.acceleration.magnitude.energy	FALSE
+208	tBodyAccMag-iqr()	time.body.acceleration.magnitude.iqr	FALSE
+209	tBodyAccMag-entropy()	time.body.acceleration.magnitude.entropy	FALSE
+210	tBodyAccMag-arCoeff()1	time.body.acceleration.magnitude.arCoeff1	FALSE
+211	tBodyAccMag-arCoeff()2	time.body.acceleration.magnitude.arCoeff2	FALSE
+212	tBodyAccMag-arCoeff()3	time.body.acceleration.magnitude.arCoeff3	FALSE
+213	tBodyAccMag-arCoeff()4	time.body.acceleration.magnitude.arCoeff4	FALSE
+214	tGravityAccMag-mean()	time.gravity.acceleration.magnitude.mean	TRUE
+215	tGravityAccMag-std()	time.gravity.acceleration.magnitude.standardDeviation	TRUE
+216	tGravityAccMag-mad()	time.gravity.acceleration.magnitude.mad	FALSE
+217	tGravityAccMag-max()	time.gravity.acceleration.magnitude.max	FALSE
+218	tGravityAccMag-min()	time.gravity.acceleration.magnitude.min	FALSE
+219	tGravityAccMag-sma()	time.gravity.acceleration.magnitude.sma	FALSE
+220	tGravityAccMag-energy()	time.gravity.acceleration.magnitude.energy	FALSE
+221	tGravityAccMag-iqr()	time.gravity.acceleration.magnitude.iqr	FALSE
+222	tGravityAccMag-entropy()	time.gravity.acceleration.magnitude.entropy	FALSE
+223	tGravityAccMag-arCoeff()1	time.gravity.acceleration.magnitude.arCoeff1	FALSE
+224	tGravityAccMag-arCoeff()2	time.gravity.acceleration.magnitude.arCoeff2	FALSE
+225	tGravityAccMag-arCoeff()3	time.gravity.acceleration.magnitude.arCoeff3	FALSE
+226	tGravityAccMag-arCoeff()4	time.gravity.acceleration.magnitude.arCoeff4	FALSE
+227	tBodyAccJerkMag-mean()	time.body.acceleration.jerk.magnitude.mean	TRUE
+228	tBodyAccJerkMag-std()	time.body.acceleration.jerk.magnitude.standardDeviation	TRUE
+229	tBodyAccJerkMag-mad()	time.body.acceleration.jerk.magnitude.mad	FALSE
+230	tBodyAccJerkMag-max()	time.body.acceleration.jerk.magnitude.max	FALSE
+231	tBodyAccJerkMag-min()	time.body.acceleration.jerk.magnitude.min	FALSE
+232	tBodyAccJerkMag-sma()	time.body.acceleration.jerk.magnitude.sma	FALSE
+233	tBodyAccJerkMag-energy()	time.body.acceleration.jerk.magnitude.energy	FALSE
+234	tBodyAccJerkMag-iqr()	time.body.acceleration.jerk.magnitude.iqr	FALSE
+235	tBodyAccJerkMag-entropy()	time.body.acceleration.jerk.magnitude.entropy	FALSE
+236	tBodyAccJerkMag-arCoeff()1	time.body.acceleration.jerk.magnitude.arCoeff1	FALSE
+237	tBodyAccJerkMag-arCoeff()2	time.body.acceleration.jerk.magnitude.arCoeff2	FALSE
+238	tBodyAccJerkMag-arCoeff()3	time.body.acceleration.jerk.magnitude.arCoeff3	FALSE
+239	tBodyAccJerkMag-arCoeff()4	time.body.acceleration.jerk.magnitude.arCoeff4	FALSE
+240	tBodyGyroMag-mean()	time.body.gyroscope.magnitude.mean	TRUE
+241	tBodyGyroMag-std()	time.body.gyroscope.magnitude.standardDeviation	TRUE
+242	tBodyGyroMag-mad()	time.body.gyroscope.magnitude.mad	FALSE
+243	tBodyGyroMag-max()	time.body.gyroscope.magnitude.max	FALSE
+244	tBodyGyroMag-min()	time.body.gyroscope.magnitude.min	FALSE
+245	tBodyGyroMag-sma()	time.body.gyroscope.magnitude.sma	FALSE
+246	tBodyGyroMag-energy()	time.body.gyroscope.magnitude.energy	FALSE
+247	tBodyGyroMag-iqr()	time.body.gyroscope.magnitude.iqr	FALSE
+248	tBodyGyroMag-entropy()	time.body.gyroscope.magnitude.entropy	FALSE
+249	tBodyGyroMag-arCoeff()1	time.body.gyroscope.magnitude.arCoeff1	FALSE
+250	tBodyGyroMag-arCoeff()2	time.body.gyroscope.magnitude.arCoeff2	FALSE
+251	tBodyGyroMag-arCoeff()3	time.body.gyroscope.magnitude.arCoeff3	FALSE
+252	tBodyGyroMag-arCoeff()4	time.body.gyroscope.magnitude.arCoeff4	FALSE
+253	tBodyGyroJerkMag-mean()	time.body.gyroscope.jerk.magnitude.mean	TRUE
+254	tBodyGyroJerkMag-std()	time.body.gyroscope.jerk.magnitude.standardDeviation	TRUE
+255	tBodyGyroJerkMag-mad()	time.body.gyroscope.jerk.magnitude.mad	FALSE
+256	tBodyGyroJerkMag-max()	time.body.gyroscope.jerk.magnitude.max	FALSE
+257	tBodyGyroJerkMag-min()	time.body.gyroscope.jerk.magnitude.min	FALSE
+258	tBodyGyroJerkMag-sma()	time.body.gyroscope.jerk.magnitude.sma	FALSE
+259	tBodyGyroJerkMag-energy()	time.body.gyroscope.jerk.magnitude.energy	FALSE
+260	tBodyGyroJerkMag-iqr()	time.body.gyroscope.jerk.magnitude.iqr	FALSE
+261	tBodyGyroJerkMag-entropy()	time.body.gyroscope.jerk.magnitude.entropy	FALSE
+262	tBodyGyroJerkMag-arCoeff()1	time.body.gyroscope.jerk.magnitude.arCoeff1	FALSE
+263	tBodyGyroJerkMag-arCoeff()2	time.body.gyroscope.jerk.magnitude.arCoeff2	FALSE
+264	tBodyGyroJerkMag-arCoeff()3	time.body.gyroscope.jerk.magnitude.arCoeff3	FALSE
+265	tBodyGyroJerkMag-arCoeff()4	time.body.gyroscope.jerk.magnitude.arCoeff4	FALSE
+266	fBodyAcc-mean()-X	fft.body.acceleration.mean.X	TRUE
+267	fBodyAcc-mean()-Y	fft.body.acceleration.mean.Y	TRUE
+268	fBodyAcc-mean()-Z	fft.body.acceleration.mean.Z	TRUE
+269	fBodyAcc-std()-X	fft.body.acceleration.standardDeviation.X	TRUE
+270	fBodyAcc-std()-Y	fft.body.acceleration.standardDeviation.Y	TRUE
+271	fBodyAcc-std()-Z	fft.body.acceleration.standardDeviation.Z	TRUE
+272	fBodyAcc-mad()-X	fft.body.acceleration.mad.X	FALSE
+273	fBodyAcc-mad()-Y	fft.body.acceleration.mad.Y	FALSE
+274	fBodyAcc-mad()-Z	fft.body.acceleration.mad.Z	FALSE
+275	fBodyAcc-max()-X	fft.body.acceleration.max.X	FALSE
+276	fBodyAcc-max()-Y	fft.body.acceleration.max.Y	FALSE
+277	fBodyAcc-max()-Z	fft.body.acceleration.max.Z	FALSE
+278	fBodyAcc-min()-X	fft.body.acceleration.min.X	FALSE
+279	fBodyAcc-min()-Y	fft.body.acceleration.min.Y	FALSE
+280	fBodyAcc-min()-Z	fft.body.acceleration.min.Z	FALSE
+281	fBodyAcc-sma()	fft.body.acceleration.sma	FALSE
+282	fBodyAcc-energy()-X	fft.body.acceleration.energy.X	FALSE
+283	fBodyAcc-energy()-Y	fft.body.acceleration.energy.Y	FALSE
+284	fBodyAcc-energy()-Z	fft.body.acceleration.energy.Z	FALSE
+285	fBodyAcc-iqr()-X	fft.body.acceleration.iqr.X	FALSE
+286	fBodyAcc-iqr()-Y	fft.body.acceleration.iqr.Y	FALSE
+287	fBodyAcc-iqr()-Z	fft.body.acceleration.iqr.Z	FALSE
+288	fBodyAcc-entropy()-X	fft.body.acceleration.entropy.X	FALSE
+289	fBodyAcc-entropy()-Y	fft.body.acceleration.entropy.Y	FALSE
+290	fBodyAcc-entropy()-Z	fft.body.acceleration.entropy.Z	FALSE
+291	fBodyAcc-maxInds-X	fft.body.acceleration.maxInds.X	FALSE
+292	fBodyAcc-maxInds-Y	fft.body.acceleration.maxInds.Y	FALSE
+293	fBodyAcc-maxInds-Z	fft.body.acceleration.maxInds.Z	FALSE
+294	fBodyAcc-meanFreq()-X	fft.body.acceleration.meanFreq.X	FALSE
+295	fBodyAcc-meanFreq()-Y	fft.body.acceleration.meanFreq.Y	FALSE
+296	fBodyAcc-meanFreq()-Z	fft.body.acceleration.meanFreq.Z	FALSE
+297	fBodyAcc-skewness()-X	fft.body.acceleration.skewness.X	FALSE
+298	fBodyAcc-kurtosis()-X	fft.body.acceleration.kurtosis.X	FALSE
+299	fBodyAcc-skewness()-Y	fft.body.acceleration.skewness.Y	FALSE
+300	fBodyAcc-kurtosis()-Y	fft.body.acceleration.kurtosis.Y	FALSE
+301	fBodyAcc-skewness()-Z	fft.body.acceleration.skewness.Z	FALSE
+302	fBodyAcc-kurtosis()-Z	fft.body.acceleration.kurtosis.Z	FALSE
+303	"fBodyAcc-bandsEnergy()-1,8"	fft.body.acceleration.bandsEnergy.1.8	FALSE
+304	"fBodyAcc-bandsEnergy()-9,16"	fft.body.acceleration.bandsEnergy.9.16	FALSE
+305	"fBodyAcc-bandsEnergy()-17,24"	fft.body.acceleration.bandsEnergy.17.24	FALSE
+306	"fBodyAcc-bandsEnergy()-25,32"	fft.body.acceleration.bandsEnergy.25.32	FALSE
+307	"fBodyAcc-bandsEnergy()-33,40"	fft.body.acceleration.bandsEnergy.33.40	FALSE
+308	"fBodyAcc-bandsEnergy()-41,48"	fft.body.acceleration.bandsEnergy.41.48	FALSE
+309	"fBodyAcc-bandsEnergy()-49,56"	fft.body.acceleration.bandsEnergy.49.56	FALSE
+310	"fBodyAcc-bandsEnergy()-57,64"	fft.body.acceleration.bandsEnergy.57.64	FALSE
+311	"fBodyAcc-bandsEnergy()-1,16"	fft.body.acceleration.bandsEnergy.1.16	FALSE
+312	"fBodyAcc-bandsEnergy()-17,32"	fft.body.acceleration.bandsEnergy.17.32	FALSE
+313	"fBodyAcc-bandsEnergy()-33,48"	fft.body.acceleration.bandsEnergy.33.48	FALSE
+314	"fBodyAcc-bandsEnergy()-49,64"	fft.body.acceleration.bandsEnergy.49.64	FALSE
+315	"fBodyAcc-bandsEnergy()-1,24"	fft.body.acceleration.bandsEnergy.1.24	FALSE
+316	"fBodyAcc-bandsEnergy()-25,48"	fft.body.acceleration.bandsEnergy.25.48	FALSE
+317	"fBodyAcc-bandsEnergy()-1,8"	fft.body.acceleration.bandsEnergy.1.8	FALSE
+318	"fBodyAcc-bandsEnergy()-9,16"	fft.body.acceleration.bandsEnergy.9.16	FALSE
+319	"fBodyAcc-bandsEnergy()-17,24"	fft.body.acceleration.bandsEnergy.17.24	FALSE
+320	"fBodyAcc-bandsEnergy()-25,32"	fft.body.acceleration.bandsEnergy.25.32	FALSE
+321	"fBodyAcc-bandsEnergy()-33,40"	fft.body.acceleration.bandsEnergy.33.40	FALSE
+322	"fBodyAcc-bandsEnergy()-41,48"	fft.body.acceleration.bandsEnergy.41.48	FALSE
+323	"fBodyAcc-bandsEnergy()-49,56"	fft.body.acceleration.bandsEnergy.49.56	FALSE
+324	"fBodyAcc-bandsEnergy()-57,64"	fft.body.acceleration.bandsEnergy.57.64	FALSE
+325	"fBodyAcc-bandsEnergy()-1,16"	fft.body.acceleration.bandsEnergy.1.16	FALSE
+326	"fBodyAcc-bandsEnergy()-17,32"	fft.body.acceleration.bandsEnergy.17.32	FALSE
+327	"fBodyAcc-bandsEnergy()-33,48"	fft.body.acceleration.bandsEnergy.33.48	FALSE
+328	"fBodyAcc-bandsEnergy()-49,64"	fft.body.acceleration.bandsEnergy.49.64	FALSE
+329	"fBodyAcc-bandsEnergy()-1,24"	fft.body.acceleration.bandsEnergy.1.24	FALSE
+330	"fBodyAcc-bandsEnergy()-25,48"	fft.body.acceleration.bandsEnergy.25.48	FALSE
+331	"fBodyAcc-bandsEnergy()-1,8"	fft.body.acceleration.bandsEnergy.1.8	FALSE
+332	"fBodyAcc-bandsEnergy()-9,16"	fft.body.acceleration.bandsEnergy.9.16	FALSE
+333	"fBodyAcc-bandsEnergy()-17,24"	fft.body.acceleration.bandsEnergy.17.24	FALSE
+334	"fBodyAcc-bandsEnergy()-25,32"	fft.body.acceleration.bandsEnergy.25.32	FALSE
+335	"fBodyAcc-bandsEnergy()-33,40"	fft.body.acceleration.bandsEnergy.33.40	FALSE
+336	"fBodyAcc-bandsEnergy()-41,48"	fft.body.acceleration.bandsEnergy.41.48	FALSE
+337	"fBodyAcc-bandsEnergy()-49,56"	fft.body.acceleration.bandsEnergy.49.56	FALSE
+338	"fBodyAcc-bandsEnergy()-57,64"	fft.body.acceleration.bandsEnergy.57.64	FALSE
+339	"fBodyAcc-bandsEnergy()-1,16"	fft.body.acceleration.bandsEnergy.1.16	FALSE
+340	"fBodyAcc-bandsEnergy()-17,32"	fft.body.acceleration.bandsEnergy.17.32	FALSE
+341	"fBodyAcc-bandsEnergy()-33,48"	fft.body.acceleration.bandsEnergy.33.48	FALSE
+342	"fBodyAcc-bandsEnergy()-49,64"	fft.body.acceleration.bandsEnergy.49.64	FALSE
+343	"fBodyAcc-bandsEnergy()-1,24"	fft.body.acceleration.bandsEnergy.1.24	FALSE
+344	"fBodyAcc-bandsEnergy()-25,48"	fft.body.acceleration.bandsEnergy.25.48	FALSE
+345	fBodyAccJerk-mean()-X	fft.body.acceleration.jerk.mean.X	TRUE
+346	fBodyAccJerk-mean()-Y	fft.body.acceleration.jerk.mean.Y	TRUE
+347	fBodyAccJerk-mean()-Z	fft.body.acceleration.jerk.mean.Z	TRUE
+348	fBodyAccJerk-std()-X	fft.body.acceleration.jerk.standardDeviation.X	TRUE
+349	fBodyAccJerk-std()-Y	fft.body.acceleration.jerk.standardDeviation.Y	TRUE
+350	fBodyAccJerk-std()-Z	fft.body.acceleration.jerk.standardDeviation.Z	TRUE
+351	fBodyAccJerk-mad()-X	fft.body.acceleration.jerk.mad.X	FALSE
+352	fBodyAccJerk-mad()-Y	fft.body.acceleration.jerk.mad.Y	FALSE
+353	fBodyAccJerk-mad()-Z	fft.body.acceleration.jerk.mad.Z	FALSE
+354	fBodyAccJerk-max()-X	fft.body.acceleration.jerk.max.X	FALSE
+355	fBodyAccJerk-max()-Y	fft.body.acceleration.jerk.max.Y	FALSE
+356	fBodyAccJerk-max()-Z	fft.body.acceleration.jerk.max.Z	FALSE
+357	fBodyAccJerk-min()-X	fft.body.acceleration.jerk.min.X	FALSE
+358	fBodyAccJerk-min()-Y	fft.body.acceleration.jerk.min.Y	FALSE
+359	fBodyAccJerk-min()-Z	fft.body.acceleration.jerk.min.Z	FALSE
+360	fBodyAccJerk-sma()	fft.body.acceleration.jerk.sma	FALSE
+361	fBodyAccJerk-energy()-X	fft.body.acceleration.jerk.energy.X	FALSE
+362	fBodyAccJerk-energy()-Y	fft.body.acceleration.jerk.energy.Y	FALSE
+363	fBodyAccJerk-energy()-Z	fft.body.acceleration.jerk.energy.Z	FALSE
+364	fBodyAccJerk-iqr()-X	fft.body.acceleration.jerk.iqr.X	FALSE
+365	fBodyAccJerk-iqr()-Y	fft.body.acceleration.jerk.iqr.Y	FALSE
+366	fBodyAccJerk-iqr()-Z	fft.body.acceleration.jerk.iqr.Z	FALSE
+367	fBodyAccJerk-entropy()-X	fft.body.acceleration.jerk.entropy.X	FALSE
+368	fBodyAccJerk-entropy()-Y	fft.body.acceleration.jerk.entropy.Y	FALSE
+369	fBodyAccJerk-entropy()-Z	fft.body.acceleration.jerk.entropy.Z	FALSE
+370	fBodyAccJerk-maxInds-X	fft.body.acceleration.jerk.maxInds.X	FALSE
+371	fBodyAccJerk-maxInds-Y	fft.body.acceleration.jerk.maxInds.Y	FALSE
+372	fBodyAccJerk-maxInds-Z	fft.body.acceleration.jerk.maxInds.Z	FALSE
+373	fBodyAccJerk-meanFreq()-X	fft.body.acceleration.jerk.meanFreq.X	FALSE
+374	fBodyAccJerk-meanFreq()-Y	fft.body.acceleration.jerk.meanFreq.Y	FALSE
+375	fBodyAccJerk-meanFreq()-Z	fft.body.acceleration.jerk.meanFreq.Z	FALSE
+376	fBodyAccJerk-skewness()-X	fft.body.acceleration.jerk.skewness.X	FALSE
+377	fBodyAccJerk-kurtosis()-X	fft.body.acceleration.jerk.kurtosis.X	FALSE
+378	fBodyAccJerk-skewness()-Y	fft.body.acceleration.jerk.skewness.Y	FALSE
+379	fBodyAccJerk-kurtosis()-Y	fft.body.acceleration.jerk.kurtosis.Y	FALSE
+380	fBodyAccJerk-skewness()-Z	fft.body.acceleration.jerk.skewness.Z	FALSE
+381	fBodyAccJerk-kurtosis()-Z	fft.body.acceleration.jerk.kurtosis.Z	FALSE
+382	"fBodyAccJerk-bandsEnergy()-1,8"	fft.body.acceleration.jerk.bandsEnergy.1.8	FALSE
+383	"fBodyAccJerk-bandsEnergy()-9,16"	fft.body.acceleration.jerk.bandsEnergy.9.16	FALSE
+384	"fBodyAccJerk-bandsEnergy()-17,24"	fft.body.acceleration.jerk.bandsEnergy.17.24	FALSE
+385	"fBodyAccJerk-bandsEnergy()-25,32"	fft.body.acceleration.jerk.bandsEnergy.25.32	FALSE
+386	"fBodyAccJerk-bandsEnergy()-33,40"	fft.body.acceleration.jerk.bandsEnergy.33.40	FALSE
+387	"fBodyAccJerk-bandsEnergy()-41,48"	fft.body.acceleration.jerk.bandsEnergy.41.48	FALSE
+388	"fBodyAccJerk-bandsEnergy()-49,56"	fft.body.acceleration.jerk.bandsEnergy.49.56	FALSE
+389	"fBodyAccJerk-bandsEnergy()-57,64"	fft.body.acceleration.jerk.bandsEnergy.57.64	FALSE
+390	"fBodyAccJerk-bandsEnergy()-1,16"	fft.body.acceleration.jerk.bandsEnergy.1.16	FALSE
+391	"fBodyAccJerk-bandsEnergy()-17,32"	fft.body.acceleration.jerk.bandsEnergy.17.32	FALSE
+392	"fBodyAccJerk-bandsEnergy()-33,48"	fft.body.acceleration.jerk.bandsEnergy.33.48	FALSE
+393	"fBodyAccJerk-bandsEnergy()-49,64"	fft.body.acceleration.jerk.bandsEnergy.49.64	FALSE
+394	"fBodyAccJerk-bandsEnergy()-1,24"	fft.body.acceleration.jerk.bandsEnergy.1.24	FALSE
+395	"fBodyAccJerk-bandsEnergy()-25,48"	fft.body.acceleration.jerk.bandsEnergy.25.48	FALSE
+396	"fBodyAccJerk-bandsEnergy()-1,8"	fft.body.acceleration.jerk.bandsEnergy.1.8	FALSE
+397	"fBodyAccJerk-bandsEnergy()-9,16"	fft.body.acceleration.jerk.bandsEnergy.9.16	FALSE
+398	"fBodyAccJerk-bandsEnergy()-17,24"	fft.body.acceleration.jerk.bandsEnergy.17.24	FALSE
+399	"fBodyAccJerk-bandsEnergy()-25,32"	fft.body.acceleration.jerk.bandsEnergy.25.32	FALSE
+400	"fBodyAccJerk-bandsEnergy()-33,40"	fft.body.acceleration.jerk.bandsEnergy.33.40	FALSE
+401	"fBodyAccJerk-bandsEnergy()-41,48"	fft.body.acceleration.jerk.bandsEnergy.41.48	FALSE
+402	"fBodyAccJerk-bandsEnergy()-49,56"	fft.body.acceleration.jerk.bandsEnergy.49.56	FALSE
+403	"fBodyAccJerk-bandsEnergy()-57,64"	fft.body.acceleration.jerk.bandsEnergy.57.64	FALSE
+404	"fBodyAccJerk-bandsEnergy()-1,16"	fft.body.acceleration.jerk.bandsEnergy.1.16	FALSE
+405	"fBodyAccJerk-bandsEnergy()-17,32"	fft.body.acceleration.jerk.bandsEnergy.17.32	FALSE
+406	"fBodyAccJerk-bandsEnergy()-33,48"	fft.body.acceleration.jerk.bandsEnergy.33.48	FALSE
+407	"fBodyAccJerk-bandsEnergy()-49,64"	fft.body.acceleration.jerk.bandsEnergy.49.64	FALSE
+408	"fBodyAccJerk-bandsEnergy()-1,24"	fft.body.acceleration.jerk.bandsEnergy.1.24	FALSE
+409	"fBodyAccJerk-bandsEnergy()-25,48"	fft.body.acceleration.jerk.bandsEnergy.25.48	FALSE
+410	"fBodyAccJerk-bandsEnergy()-1,8"	fft.body.acceleration.jerk.bandsEnergy.1.8	FALSE
+411	"fBodyAccJerk-bandsEnergy()-9,16"	fft.body.acceleration.jerk.bandsEnergy.9.16	FALSE
+412	"fBodyAccJerk-bandsEnergy()-17,24"	fft.body.acceleration.jerk.bandsEnergy.17.24	FALSE
+413	"fBodyAccJerk-bandsEnergy()-25,32"	fft.body.acceleration.jerk.bandsEnergy.25.32	FALSE
+414	"fBodyAccJerk-bandsEnergy()-33,40"	fft.body.acceleration.jerk.bandsEnergy.33.40	FALSE
+415	"fBodyAccJerk-bandsEnergy()-41,48"	fft.body.acceleration.jerk.bandsEnergy.41.48	FALSE
+416	"fBodyAccJerk-bandsEnergy()-49,56"	fft.body.acceleration.jerk.bandsEnergy.49.56	FALSE
+417	"fBodyAccJerk-bandsEnergy()-57,64"	fft.body.acceleration.jerk.bandsEnergy.57.64	FALSE
+418	"fBodyAccJerk-bandsEnergy()-1,16"	fft.body.acceleration.jerk.bandsEnergy.1.16	FALSE
+419	"fBodyAccJerk-bandsEnergy()-17,32"	fft.body.acceleration.jerk.bandsEnergy.17.32	FALSE
+420	"fBodyAccJerk-bandsEnergy()-33,48"	fft.body.acceleration.jerk.bandsEnergy.33.48	FALSE
+421	"fBodyAccJerk-bandsEnergy()-49,64"	fft.body.acceleration.jerk.bandsEnergy.49.64	FALSE
+422	"fBodyAccJerk-bandsEnergy()-1,24"	fft.body.acceleration.jerk.bandsEnergy.1.24	FALSE
+423	"fBodyAccJerk-bandsEnergy()-25,48"	fft.body.acceleration.jerk.bandsEnergy.25.48	FALSE
+424	fBodyGyro-mean()-X	fft.body.gyroscope.mean.X	TRUE
+425	fBodyGyro-mean()-Y	fft.body.gyroscope.mean.Y	TRUE
+426	fBodyGyro-mean()-Z	fft.body.gyroscope.mean.Z	TRUE
+427	fBodyGyro-std()-X	fft.body.gyroscope.standardDeviation.X	TRUE
+428	fBodyGyro-std()-Y	fft.body.gyroscope.standardDeviation.Y	TRUE
+429	fBodyGyro-std()-Z	fft.body.gyroscope.standardDeviation.Z	TRUE
+430	fBodyGyro-mad()-X	fft.body.gyroscope.mad.X	FALSE
+431	fBodyGyro-mad()-Y	fft.body.gyroscope.mad.Y	FALSE
+432	fBodyGyro-mad()-Z	fft.body.gyroscope.mad.Z	FALSE
+433	fBodyGyro-max()-X	fft.body.gyroscope.max.X	FALSE
+434	fBodyGyro-max()-Y	fft.body.gyroscope.max.Y	FALSE
+435	fBodyGyro-max()-Z	fft.body.gyroscope.max.Z	FALSE
+436	fBodyGyro-min()-X	fft.body.gyroscope.min.X	FALSE
+437	fBodyGyro-min()-Y	fft.body.gyroscope.min.Y	FALSE
+438	fBodyGyro-min()-Z	fft.body.gyroscope.min.Z	FALSE
+439	fBodyGyro-sma()	fft.body.gyroscope.sma	FALSE
+440	fBodyGyro-energy()-X	fft.body.gyroscope.energy.X	FALSE
+441	fBodyGyro-energy()-Y	fft.body.gyroscope.energy.Y	FALSE
+442	fBodyGyro-energy()-Z	fft.body.gyroscope.energy.Z	FALSE
+443	fBodyGyro-iqr()-X	fft.body.gyroscope.iqr.X	FALSE
+444	fBodyGyro-iqr()-Y	fft.body.gyroscope.iqr.Y	FALSE
+445	fBodyGyro-iqr()-Z	fft.body.gyroscope.iqr.Z	FALSE
+446	fBodyGyro-entropy()-X	fft.body.gyroscope.entropy.X	FALSE
+447	fBodyGyro-entropy()-Y	fft.body.gyroscope.entropy.Y	FALSE
+448	fBodyGyro-entropy()-Z	fft.body.gyroscope.entropy.Z	FALSE
+449	fBodyGyro-maxInds-X	fft.body.gyroscope.maxInds.X	FALSE
+450	fBodyGyro-maxInds-Y	fft.body.gyroscope.maxInds.Y	FALSE
+451	fBodyGyro-maxInds-Z	fft.body.gyroscope.maxInds.Z	FALSE
+452	fBodyGyro-meanFreq()-X	fft.body.gyroscope.meanFreq.X	FALSE
+453	fBodyGyro-meanFreq()-Y	fft.body.gyroscope.meanFreq.Y	FALSE
+454	fBodyGyro-meanFreq()-Z	fft.body.gyroscope.meanFreq.Z	FALSE
+455	fBodyGyro-skewness()-X	fft.body.gyroscope.skewness.X	FALSE
+456	fBodyGyro-kurtosis()-X	fft.body.gyroscope.kurtosis.X	FALSE
+457	fBodyGyro-skewness()-Y	fft.body.gyroscope.skewness.Y	FALSE
+458	fBodyGyro-kurtosis()-Y	fft.body.gyroscope.kurtosis.Y	FALSE
+459	fBodyGyro-skewness()-Z	fft.body.gyroscope.skewness.Z	FALSE
+460	fBodyGyro-kurtosis()-Z	fft.body.gyroscope.kurtosis.Z	FALSE
+461	"fBodyGyro-bandsEnergy()-1,8"	fft.body.gyroscope.bandsEnergy.1.8	FALSE
+462	"fBodyGyro-bandsEnergy()-9,16"	fft.body.gyroscope.bandsEnergy.9.16	FALSE
+463	"fBodyGyro-bandsEnergy()-17,24"	fft.body.gyroscope.bandsEnergy.17.24	FALSE
+464	"fBodyGyro-bandsEnergy()-25,32"	fft.body.gyroscope.bandsEnergy.25.32	FALSE
+465	"fBodyGyro-bandsEnergy()-33,40"	fft.body.gyroscope.bandsEnergy.33.40	FALSE
+466	"fBodyGyro-bandsEnergy()-41,48"	fft.body.gyroscope.bandsEnergy.41.48	FALSE
+467	"fBodyGyro-bandsEnergy()-49,56"	fft.body.gyroscope.bandsEnergy.49.56	FALSE
+468	"fBodyGyro-bandsEnergy()-57,64"	fft.body.gyroscope.bandsEnergy.57.64	FALSE
+469	"fBodyGyro-bandsEnergy()-1,16"	fft.body.gyroscope.bandsEnergy.1.16	FALSE
+470	"fBodyGyro-bandsEnergy()-17,32"	fft.body.gyroscope.bandsEnergy.17.32	FALSE
+471	"fBodyGyro-bandsEnergy()-33,48"	fft.body.gyroscope.bandsEnergy.33.48	FALSE
+472	"fBodyGyro-bandsEnergy()-49,64"	fft.body.gyroscope.bandsEnergy.49.64	FALSE
+473	"fBodyGyro-bandsEnergy()-1,24"	fft.body.gyroscope.bandsEnergy.1.24	FALSE
+474	"fBodyGyro-bandsEnergy()-25,48"	fft.body.gyroscope.bandsEnergy.25.48	FALSE
+475	"fBodyGyro-bandsEnergy()-1,8"	fft.body.gyroscope.bandsEnergy.1.8	FALSE
+476	"fBodyGyro-bandsEnergy()-9,16"	fft.body.gyroscope.bandsEnergy.9.16	FALSE
+477	"fBodyGyro-bandsEnergy()-17,24"	fft.body.gyroscope.bandsEnergy.17.24	FALSE
+478	"fBodyGyro-bandsEnergy()-25,32"	fft.body.gyroscope.bandsEnergy.25.32	FALSE
+479	"fBodyGyro-bandsEnergy()-33,40"	fft.body.gyroscope.bandsEnergy.33.40	FALSE
+480	"fBodyGyro-bandsEnergy()-41,48"	fft.body.gyroscope.bandsEnergy.41.48	FALSE
+481	"fBodyGyro-bandsEnergy()-49,56"	fft.body.gyroscope.bandsEnergy.49.56	FALSE
+482	"fBodyGyro-bandsEnergy()-57,64"	fft.body.gyroscope.bandsEnergy.57.64	FALSE
+483	"fBodyGyro-bandsEnergy()-1,16"	fft.body.gyroscope.bandsEnergy.1.16	FALSE
+484	"fBodyGyro-bandsEnergy()-17,32"	fft.body.gyroscope.bandsEnergy.17.32	FALSE
+485	"fBodyGyro-bandsEnergy()-33,48"	fft.body.gyroscope.bandsEnergy.33.48	FALSE
+486	"fBodyGyro-bandsEnergy()-49,64"	fft.body.gyroscope.bandsEnergy.49.64	FALSE
+487	"fBodyGyro-bandsEnergy()-1,24"	fft.body.gyroscope.bandsEnergy.1.24	FALSE
+488	"fBodyGyro-bandsEnergy()-25,48"	fft.body.gyroscope.bandsEnergy.25.48	FALSE
+489	"fBodyGyro-bandsEnergy()-1,8"	fft.body.gyroscope.bandsEnergy.1.8	FALSE
+490	"fBodyGyro-bandsEnergy()-9,16"	fft.body.gyroscope.bandsEnergy.9.16	FALSE
+491	"fBodyGyro-bandsEnergy()-17,24"	fft.body.gyroscope.bandsEnergy.17.24	FALSE
+492	"fBodyGyro-bandsEnergy()-25,32"	fft.body.gyroscope.bandsEnergy.25.32	FALSE
+493	"fBodyGyro-bandsEnergy()-33,40"	fft.body.gyroscope.bandsEnergy.33.40	FALSE
+494	"fBodyGyro-bandsEnergy()-41,48"	fft.body.gyroscope.bandsEnergy.41.48	FALSE
+495	"fBodyGyro-bandsEnergy()-49,56"	fft.body.gyroscope.bandsEnergy.49.56	FALSE
+496	"fBodyGyro-bandsEnergy()-57,64"	fft.body.gyroscope.bandsEnergy.57.64	FALSE
+497	"fBodyGyro-bandsEnergy()-1,16"	fft.body.gyroscope.bandsEnergy.1.16	FALSE
+498	"fBodyGyro-bandsEnergy()-17,32"	fft.body.gyroscope.bandsEnergy.17.32	FALSE
+499	"fBodyGyro-bandsEnergy()-33,48"	fft.body.gyroscope.bandsEnergy.33.48	FALSE
+500	"fBodyGyro-bandsEnergy()-49,64"	fft.body.gyroscope.bandsEnergy.49.64	FALSE
+501	"fBodyGyro-bandsEnergy()-1,24"	fft.body.gyroscope.bandsEnergy.1.24	FALSE
+502	"fBodyGyro-bandsEnergy()-25,48"	fft.body.gyroscope.bandsEnergy.25.48	FALSE
+503	fBodyAccMag-mean()	fft.body.acceleration.magnitude.mean	TRUE
+504	fBodyAccMag-std()	fft.body.acceleration.magnitude.standardDeviation	TRUE
+505	fBodyAccMag-mad()	fft.body.acceleration.magnitude.mad	FALSE
+506	fBodyAccMag-max()	fft.body.acceleration.magnitude.max	FALSE
+507	fBodyAccMag-min()	fft.body.acceleration.magnitude.min	FALSE
+508	fBodyAccMag-sma()	fft.body.acceleration.magnitude.sma	FALSE
+509	fBodyAccMag-energy()	fft.body.acceleration.magnitude.energy	FALSE
+510	fBodyAccMag-iqr()	fft.body.acceleration.magnitude.iqr	FALSE
+511	fBodyAccMag-entropy()	fft.body.acceleration.magnitude.entropy	FALSE
+512	fBodyAccMag-maxInds	fft.body.acceleration.magnitude.maxInds	FALSE
+513	fBodyAccMag-meanFreq()	fft.body.acceleration.magnitude.meanFreq	FALSE
+514	fBodyAccMag-skewness()	fft.body.acceleration.magnitude.skewness	FALSE
+515	fBodyAccMag-kurtosis()	fft.body.acceleration.magnitude.kurtosis	FALSE
+516	fBodyBodyAccJerkMag-mean()	fft.body.body.acceleration.jerk.magnitude.mean	TRUE
+517	fBodyBodyAccJerkMag-std()	fft.body.body.acceleration.jerk.magnitude.standardDeviation	TRUE
+518	fBodyBodyAccJerkMag-mad()	fft.body.body.acceleration.jerk.magnitude.mad	FALSE
+519	fBodyBodyAccJerkMag-max()	fft.body.body.acceleration.jerk.magnitude.max	FALSE
+520	fBodyBodyAccJerkMag-min()	fft.body.body.acceleration.jerk.magnitude.min	FALSE
+521	fBodyBodyAccJerkMag-sma()	fft.body.body.acceleration.jerk.magnitude.sma	FALSE
+522	fBodyBodyAccJerkMag-energy()	fft.body.body.acceleration.jerk.magnitude.energy	FALSE
+523	fBodyBodyAccJerkMag-iqr()	fft.body.body.acceleration.jerk.magnitude.iqr	FALSE
+524	fBodyBodyAccJerkMag-entropy()	fft.body.body.acceleration.jerk.magnitude.entropy	FALSE
+525	fBodyBodyAccJerkMag-maxInds	fft.body.body.acceleration.jerk.magnitude.maxInds	FALSE
+526	fBodyBodyAccJerkMag-meanFreq()	fft.body.body.acceleration.jerk.magnitude.meanFreq	FALSE
+527	fBodyBodyAccJerkMag-skewness()	fft.body.body.acceleration.jerk.magnitude.skewness	FALSE
+528	fBodyBodyAccJerkMag-kurtosis()	fft.body.body.acceleration.jerk.magnitude.kurtosis	FALSE
+529	fBodyBodyGyroMag-mean()	fft.body.body.gyroscope.magnitude.mean	TRUE
+530	fBodyBodyGyroMag-std()	fft.body.body.gyroscope.magnitude.standardDeviation	TRUE
+531	fBodyBodyGyroMag-mad()	fft.body.body.gyroscope.magnitude.mad	FALSE
+532	fBodyBodyGyroMag-max()	fft.body.body.gyroscope.magnitude.max	FALSE
+533	fBodyBodyGyroMag-min()	fft.body.body.gyroscope.magnitude.min	FALSE
+534	fBodyBodyGyroMag-sma()	fft.body.body.gyroscope.magnitude.sma	FALSE
+535	fBodyBodyGyroMag-energy()	fft.body.body.gyroscope.magnitude.energy	FALSE
+536	fBodyBodyGyroMag-iqr()	fft.body.body.gyroscope.magnitude.iqr	FALSE
+537	fBodyBodyGyroMag-entropy()	fft.body.body.gyroscope.magnitude.entropy	FALSE
+538	fBodyBodyGyroMag-maxInds	fft.body.body.gyroscope.magnitude.maxInds	FALSE
+539	fBodyBodyGyroMag-meanFreq()	fft.body.body.gyroscope.magnitude.meanFreq	FALSE
+540	fBodyBodyGyroMag-skewness()	fft.body.body.gyroscope.magnitude.skewness	FALSE
+541	fBodyBodyGyroMag-kurtosis()	fft.body.body.gyroscope.magnitude.kurtosis	FALSE
+542	fBodyBodyGyroJerkMag-mean()	fft.body.body.gyroscope.jerk.magnitude.mean	TRUE
+543	fBodyBodyGyroJerkMag-std()	fft.body.body.gyroscope.jerk.magnitude.standardDeviation	TRUE
+544	fBodyBodyGyroJerkMag-mad()	fft.body.body.gyroscope.jerk.magnitude.mad	FALSE
+545	fBodyBodyGyroJerkMag-max()	fft.body.body.gyroscope.jerk.magnitude.max	FALSE
+546	fBodyBodyGyroJerkMag-min()	fft.body.body.gyroscope.jerk.magnitude.min	FALSE
+547	fBodyBodyGyroJerkMag-sma()	fft.body.body.gyroscope.jerk.magnitude.sma	FALSE
+548	fBodyBodyGyroJerkMag-energy()	fft.body.body.gyroscope.jerk.magnitude.energy	FALSE
+549	fBodyBodyGyroJerkMag-iqr()	fft.body.body.gyroscope.jerk.magnitude.iqr	FALSE
+550	fBodyBodyGyroJerkMag-entropy()	fft.body.body.gyroscope.jerk.magnitude.entropy	FALSE
+551	fBodyBodyGyroJerkMag-maxInds	fft.body.body.gyroscope.jerk.magnitude.maxInds	FALSE
+552	fBodyBodyGyroJerkMag-meanFreq()	fft.body.body.gyroscope.jerk.magnitude.meanFreq	FALSE
+553	fBodyBodyGyroJerkMag-skewness()	fft.body.body.gyroscope.jerk.magnitude.skewness	FALSE
+554	fBodyBodyGyroJerkMag-kurtosis()	fft.body.body.gyroscope.jerk.magnitude.kurtosis	FALSE
+555	"angle(tBodyAccMean,gravity)"	angle.time.body.AccMean.gravity	FALSE
+556	"angle(tBodyAccJerkMean),gravityMean)"	angle.time.body.acceleration.jerkMean.gravityMean	FALSE
+557	"angle(tBodyGyroMean,gravityMean)"	angle.time.body.GyroMean.gravityMean	FALSE
+558	"angle(tBodyGyroJerkMean,gravityMean)"	angle.time.body.GyroJerkMean.gravityMean	FALSE
+559	"angle(X,gravityMean)"	angle.X.gravityMean	FALSE
+560	"angle(Y,gravityMean)"	angle.Y.gravityMean	FALSE
+561	"angle(Z,gravityMean)"	angle.Z.gravityMean	FALSE
