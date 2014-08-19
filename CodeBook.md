@@ -1,0 +1,7 @@
+# CodeBook
+## Course Project
+### Coursera Getting And Cleaning Data - JHSPH
+
+The original general description of naming conventions and units are described in the smartphone dataset file features_info.txt. The analysis performed did not change the units on any variables and the output variables in the tidy data set are thus in the same units.  The subject id (subject) is combined with the activity id (activity) and activity descriptive name (activity.name) and then combined with the features for both the test and training datasets.  These combined datasets then have all rows merged.  The project file featuresDescriptive.txt allows the user to control the tidy dataset column names (specified in the third column) and their inclusion/exclusion from the analysis (fourth column). This approach allows the user to insert their preferences into the analysis. The R language itself as well as the [Google R Style Guide](https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml) provided the basis for the default choices here, albiet contrary to the lecture notes/opinions. 
+
+All output variables are transformed by taking their average (mean) across the keys (subject, activity) and by prepending the string "average." to the variable name. The output is then summarized by (subject, activity.name) and output to the summaryFilename specified in the run_analysis call. 
